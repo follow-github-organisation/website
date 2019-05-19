@@ -3,19 +3,19 @@ RECENT_REPOS:
     org_link: /organisations/github
     repo_name: pipelines-dotnet-core-docker
     repo_link: http://localhost:1313/repos/pipelines-dotnet-core-docker
-    repo_details: NA
+    repo_desc: NA
   - org_name: Facebook
     org_link: /organisations/facebook
     repo_name: pipelines-dotnet-core-docker
     repo_link: http://localhost:1313/repos/pipelines-dotnet-core-docker
-    repo_details: NA
+    repo_desc: NA
   - org_name: GitHub
     org_link: /organisations/github
     repo_name: pipelines-dotnet-core-docker
     repo_link: http://localhost:1313/repos/pipelines-dotnet-core-docker
-    repo_details: NA
+    repo_desc: NA
   - org_name: Facebook
     org_link: /organisations/facebook
     repo_name: pipelines-dotnet-core-docker
     repo_link: http://localhost:1313/repos/pipelines-dotnet-core-docker
-    repo_details: NA
+    repo_desc: NA
