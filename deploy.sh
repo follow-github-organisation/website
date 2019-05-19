@@ -22,6 +22,8 @@ git push origin master
 
 # Come Back up to the Project Root
 cd ..
+# Add changes to git.
+git add .
 
 # Push to hugo website content repository
 git commit -m "$msg"
