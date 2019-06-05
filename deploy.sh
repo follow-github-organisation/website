@@ -27,4 +27,4 @@ git add .
 
 # Push to hugo website content repository
 git commit -m "$msg"
-git push origin master
+git push -f origin master

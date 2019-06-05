@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "http://followgithub.org/"
 languageCode = "en-us"
-title = "My New Hugo Site"
-theme = "ananke"
+title = "Follow GitHub Organization | Get notified on new repository creation"
+theme = "ananke-fork"

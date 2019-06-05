@@ -1,0 +1,56 @@
+{{ define "main" }}
+  <nav class="navbar navbar-expand-lg navbar-light bg-white justify-content-center">
+    <a class="navbar-brand font-weight-light" href="#">
+      <!--<img src="https://avatars2.githubusercontent.com/u/47492807?s=200&v=4" width="30" height="30" class="d-inline-block align-top" alt="">-->
+      <b>Follow GitHub Organisation</b>
+    </a>
+  </nav>
+
+  <div class="jumbotron jumbotron-fluid bg-white my-4">
+    <div class="container">
+      <p class="lead text-center">Get notified when a new repository is created in a GitHub organisation</p>
+    </div>
+  </div>
+
+  <div class="container container-fluid">
+    <div class="row justify-content-center">
+      <input class="col-10 col-md-8 form-control my-2" type="search" placeholder="Enter Organisation Link" aria-label="Search">
+      <button class="btn btn-dark btn-sm col-3 col-md-1 my-2 mx-2" type="submit">Search</button>
+    </div>
+  </div>
+
+  <div class="container container-fluid">
+    <hr class="my-4">
+    <div class="row my-2 justify-content-center">
+      <ul class="nav nav-tabs" id="myTab" role="tablist">
+        <li class="nav-item">
+          <a class="nav-link active font-weight-light" id="recent-tab" data-toggle="tab" href="#recent" role="tab" aria-controls="recent" aria-selected="true">Recently created repositories</a>
+        </li>
+      </ul>
+      <div class="tab-content" id="myTabContent">
+        <div class="tab-pane fade show active" id="recent" role="tabpanel" aria-labelledby="recent-tab"></div>
+      </div>
+    </div>
+
+    <div class="row my-2 justify-content-center">
+      {{ range .Site.Data.new_created_repos.RECENT_REPOS }}
+      <div class="col-sm-5 my-2">
+        <div class="card">
+          <div class="card-body">
+            <h5 class="card-title text-truncate">
+              <img src="https://cdnjs.cloudflare.com/ajax/libs/octicons/8.5.0/svg/organization.svg" class="img-fluid" alt="Responsive image">
+              <a href="{{ .org_link }}">{{ .org_name }}</a>
+            </h5>
+            <h6 class="card-title text-truncate">
+              <img src="https://cdnjs.cloudflare.com/ajax/libs/octicons/8.5.0/svg/repo.svg" class="img-fluid" alt="Responsive image">
+              <a href="{{ .repo_link }}">{{ .repo_name }}</a>
+            </h6>
+            <p class="card-text text-truncate font-weight-light">{{ .repo_desc }}</p>
+          </div>
+        </div>
+      </div>
+      {{ end }}
+    </div>
+
+  </div>
+{{ end }}

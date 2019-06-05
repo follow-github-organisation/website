@@ -1,0 +1,9 @@
+#!/usr/bin/expect -f
+spawn ./deploy.sh
+
+expect "Username for 'https://github.com':" { send -- "followgithuborg\r" }
+expect "Password for 'https://followgithuborg@github.com':" { send -- "$env(token)\r" }
+expect "Username for 'https://github.com':" { send -- "followgithuborg\r" }
+expect "Password for 'https://followgithuborg@github.com':" { send -- "$env(token)\r" }
+
+interact
