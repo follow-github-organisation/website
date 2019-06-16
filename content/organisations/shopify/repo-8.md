@@ -1,0 +1,7 @@
+---
+title: "magic-modules"
+date: 2019-06-16T17:46:37+05:30
+type: "organisations"
+org_name: "Shopify"
+repo_desc: "Magic Modules: Automagically generate Google Cloud Platform support for OSS"
+repo_link: https://github.com/Shopify/magic-modules---
