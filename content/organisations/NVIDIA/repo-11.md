@@ -5,4 +5,6 @@ type: "organisations"
 org_name: "NVIDIA Corporation"
 repo_desc: "GPU plugin to the node feature discovery for Kubernetes"
 repo_link: https://github.com/NVIDIA/gpu-feature-discovery
+
+
 ---

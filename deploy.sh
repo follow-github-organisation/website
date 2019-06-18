@@ -2,11 +2,16 @@
 
 echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
 
+cd /home/ubuntu/website
+
+echo $pwd
+
 # Build the project.
-hugo -t ananke-fork # if using a theme, replace with `hugo -t <YOURTHEME>`
+hugo --themesDir $(pwd)/themes
 
 # Go To Public folder
 cd public
+echo $pwd
 # Add changes to git.
 git add .
 
@@ -22,6 +27,7 @@ git push -f origin master
 
 # Come Back up to the Project Root
 cd ..
+echo $pwd
 # Add changes to git.
 git add .
 

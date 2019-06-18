@@ -5,4 +5,6 @@ type: "organisations"
 org_name: "Microsoft Graph"
 repo_desc: "Artwork for our g-raph (giraffe)"
 repo_link: https://github.com/microsoftgraph/g-raph
+
+
 ---

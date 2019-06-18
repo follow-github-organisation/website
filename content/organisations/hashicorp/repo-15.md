@@ -5,4 +5,6 @@ type: "organisations"
 org_name: "HashiCorp"
 repo_desc: "Provides short-lived credentials for Elasticsearch that are unique to each user or application."
 repo_link: https://github.com/hashicorp/vault-plugin-database-elasticsearch
+
+
 ---

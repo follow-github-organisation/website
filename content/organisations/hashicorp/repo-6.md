@@ -5,4 +5,6 @@ type: "organisations"
 org_name: "HashiCorp"
 repo_desc: "A lightning fast JSON:API serializer for Ruby Objects."
 repo_link: https://github.com/hashicorp/fast_jsonapi
+
+
 ---

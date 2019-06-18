@@ -5,4 +5,6 @@ type: "organisations"
 org_name: "HashiCorp"
 repo_desc: "Training slides, Terraform code, and instructions for trainers"
 repo_link: https://github.com/hashicorp/se-terraform-vault-workshop
+
+
 ---

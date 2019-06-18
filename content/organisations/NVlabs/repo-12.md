@@ -5,4 +5,6 @@ type: "organisations"
 org_name: "NVIDIA Research Projects"
 repo_desc: "Semantic Image Synthesis with SPADE"
 repo_link: https://github.com/NVlabs/SPADE
+
+
 ---

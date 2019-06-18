@@ -5,4 +5,6 @@ type: "organisations"
 org_name: "Amazon Web Services - Labs"
 repo_desc: "joint_based_embeddings is code for training Knowledge Graphs embeddings."
 repo_link: https://github.com/awslabs/joint_biased_embeddings
+
+
 ---

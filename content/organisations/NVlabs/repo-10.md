@@ -5,4 +5,6 @@ type: "organisations"
 org_name: "NVIDIA Research Projects"
 repo_desc: "Pruning Neural Networks with Taylor criterion in Pytorch"
 repo_link: https://github.com/NVlabs/Taylor_pruning
+
+
 ---

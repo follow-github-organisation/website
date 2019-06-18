@@ -5,4 +5,6 @@ type: "organisations"
 org_name: "Amazon Web Services - Labs"
 repo_desc: " Python SAM Lambda module for sending email about AWS Reserved Instance whose contract is expiring within the specified days"
 repo_link: https://github.com/awslabs/aws-reserved-instance-expiration-notification
+
+
 ---
