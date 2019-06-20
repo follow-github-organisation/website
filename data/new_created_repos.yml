@@ -1,46 +1,51 @@
 RECENT_REPOS:
-- org_link: /organisations/nuxt-community
-  org_name: Nuxt Community
-  repo_desc: Package discovery  automatically
-  repo_link: https://github.com/nuxt-community/package-discovery
-  repo_name: package-discovery
-- org_link: /organisations/nuxt-community
-  org_name: Nuxt Community
-  repo_desc: Package discovery  automatically
-  repo_link: https://github.com/nuxt-community/package-discovery
-  repo_name: package-discovery
-- org_link: /organisations/creativecommons
-  org_name: Creative Commons
-  repo_desc: NA
-  repo_link: https://github.com/creativecommons/sre-wp-pull
-  repo_name: sre-wp-pull
-- org_link: /organisations/hashicorp
-  org_name: HashiCorp
-  repo_desc: NA
-  repo_link: https://github.com/hashicorp/packet-custom-image-tbw
-  repo_name: packet-custom-image-tbw
-- org_link: /organisations/microsoftdocs
-  org_name: Microsoft Docs
-  repo_desc: NA
-  repo_link: https://github.com/MicrosoftDocs/docs-archive-blogs-test
-  repo_name: docs-archive-blogs-test
-- org_link: /organisations/facebook
-  org_name: Facebook
-  repo_desc: NA
-  repo_link: http://localhost:1313/repos/pipelines-dotnet-core-docker
-  repo_name: pipelines-dotnet-core-docker
-- org_link: /organisations/github
-  org_name: GitHub
-  repo_desc: NA
-  repo_link: http://localhost:1313/repos/pipelines-dotnet-core-docker
-  repo_name: pipelines-dotnet-core-docker
-- org_link: /organisations/facebook
-  org_name: Facebook
-  repo_desc: NA
-  repo_link: http://localhost:1313/repos/pipelines-dotnet-core-docker
-  repo_name: pipelines-dotnet-core-docker
+- org_link: /organisations/microsoft
+  org_name: Microsoft
+  repo_desc: A React-based MakeCode Extension
+  repo_link: https://github.com/microsoft/pxt-react-extension-template
+  repo_name: pxt-react-extension-template
 - org_link: /organisations/github
   org_name: GitHub
   repo_desc: NA
   repo_link: http://localhost:1314/repos/pipelines-dotnet-core-docker
   repo_name: pipelines-dotnet-core-docker
+- org_link: /organisations/facebook
+  org_name: Facebook
+  repo_desc: NA
+  repo_link: http://localhost:1313/repos/pipelines-dotnet-core-docker
+  repo_name: pipelines-dotnet-core-docker
+- org_link: /organisations/github
+  org_name: GitHub
+  repo_desc: NA
+  repo_link: http://localhost:1313/repos/pipelines-dotnet-core-docker
+  repo_name: pipelines-dotnet-core-docker
+- org_link: /organisations/facebook
+  org_name: Facebook
+  repo_desc: NA
+  repo_link: http://localhost:1313/repos/pipelines-dotnet-core-docker
+  repo_name: pipelines-dotnet-core-docker
+- org_link: /organisations/microsoftdocs
+  org_name: Microsoft Docs
+  repo_desc: NA
+  repo_link: https://github.com/MicrosoftDocs/docs-archive-blogs-test
+  repo_name: docs-archive-blogs-test
+- org_link: /organisations/hashicorp
+  org_name: HashiCorp
+  repo_desc: NA
+  repo_link: https://github.com/hashicorp/packet-custom-image-tbw
+  repo_name: packet-custom-image-tbw
+- org_link: /organisations/creativecommons
+  org_name: Creative Commons
+  repo_desc: NA
+  repo_link: https://github.com/creativecommons/sre-wp-pull
+  repo_name: sre-wp-pull
+- org_link: /organisations/nuxt-community
+  org_name: Nuxt Community
+  repo_desc: Package discovery  automatically
+  repo_link: https://github.com/nuxt-community/package-discovery
+  repo_name: package-discovery
+- org_link: /organisations/nuxt-community
+  org_name: Nuxt Community
+  repo_desc: Package discovery  automatically
+  repo_link: https://github.com/nuxt-community/package-discovery
+  repo_name: package-discovery
