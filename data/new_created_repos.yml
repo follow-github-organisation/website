@@ -1,51 +1,54 @@
 RECENT_REPOS:
-- org_link: /organisations/italia
-  org_name: Developers Italia
-  repo_desc: This repo is meant to be used as a template for creating new repos
-  repo_link: https://github.com/italia/repo-cookiecutter
-  repo_name: repo-cookiecutter
-- org_link: /organisations/cloudflare
-  org_name: Cloudflare
-  repo_desc: Serve BinAST via a Cloudflare Worker
-  repo_link: https://github.com/cloudflare/binast-cf-worker
-  repo_name: binast-cf-worker
-- org_link: /organisations/microsoftdocs
-  org_name: Microsoft Docs
-  repo_desc: Windows Server
-  repo_link: https://github.com/MicrosoftDocs/windowsserverdocs.de-de
-  repo_name: windowsserverdocs.de-de
-- org_link: /organisations/microsoftdocs
-  org_name: Microsoft Docs
-  repo_desc: Windows Server
-  repo_link: https://github.com/MicrosoftDocs/windowsserverdocs.es-es
-  repo_name: windowsserverdocs.es-es
-- org_link: /organisations/microsoftdocs
-  org_name: Microsoft Docs
-  repo_desc: Windows Server
-  repo_link: https://github.com/MicrosoftDocs/windowsserverdocs.fr-fr
-  repo_name: windowsserverdocs.fr-fr
-- org_link: /organisations/microsoftdocs
-  org_name: Microsoft Docs
-  repo_desc: Windows Server
-  repo_link: https://github.com/MicrosoftDocs/windowsserverdocs.it-it
-  repo_name: windowsserverdocs.it-it
-- org_link: /organisations/microsoftdocs
-  org_name: Microsoft Docs
-  repo_desc: Windows Server
-  repo_link: https://github.com/MicrosoftDocs/windowsserverdocs.ja-jp
-  repo_name: windowsserverdocs.ja-jp
-- org_link: /organisations/microsoftdocs
-  org_name: Microsoft Docs
-  repo_desc: Windows Server
-  repo_link: https://github.com/MicrosoftDocs/windowsserverdocs.ko-kr
-  repo_name: windowsserverdocs.ko-kr
-- org_link: /organisations/microsoftdocs
-  org_name: Microsoft Docs
-  repo_desc: Windows Server
-  repo_link: https://github.com/MicrosoftDocs/windowsserverdocs.pt-br
-  repo_name: windowsserverdocs.pt-br
+- org_link: /organisations/leggedrobotics
+  org_name: ETH Zurich Legged Robotics
+  repo_desc: NA
+  repo_link: https://github.com/leggedrobotics/raisimLib
+  repo_name: raisimLib
+- org_link: /organisations/leggedrobotics
+  org_name: ETH Zurich Legged Robotics
+  repo_desc: NA
+  repo_link: https://github.com/leggedrobotics/raisimGym
+  repo_name: raisimGym
+- org_link: /organisations/nanoporetech
+  org_name: Oxford Nanopore Technologies
+  repo_desc: NA
+  repo_link: https://github.com/nanoporetech/homebrew-tap
+  repo_name: homebrew-tap
+- org_link: /organisations/bytedance
+  org_name: Bytedance Inc.
+  repo_desc: This plugin allows sending jobs status notification to your work group
+    with Lark, and help you understand the build result.
+  repo_link: https://github.com/bytedance/jenkins-plugin-lark
+  repo_name: jenkins-plugin-lark
+- org_link: /organisations/bytedance
+  org_name: Bytedance Inc.
+  repo_desc: Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with
+    Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go,
+    Javascript and more
+  repo_link: https://github.com/bytedance/incubator-mxnet
+  repo_name: incubator-mxnet
+- org_link: /organisations/elastic
+  org_name: elastic
+  repo_desc: Homebrew tap for the Elastic Stack
+  repo_link: https://github.com/elastic/homebrew-tap
+  repo_name: homebrew-tap
+- org_link: /organisations/mozilla
+  org_name: Mozilla
+  repo_desc: DeepSpeech based forced alignment tool
+  repo_link: https://github.com/mozilla/DSAlign
+  repo_name: DSAlign
+- org_link: /organisations/mozilla
+  org_name: Mozilla
+  repo_desc: Changes letter avatars to be more Mozilla
+  repo_link: https://github.com/mozilla/discourse-mozilla-letter-avatar
+  repo_name: discourse-mozilla-letter-avatar
 - org_link: /organisations/microsoftdocs
   org_name: Microsoft Docs
   repo_desc: Windows Server
   repo_link: https://github.com/MicrosoftDocs/windowsserverdocs.ru-ru
   repo_name: windowsserverdocs.ru-ru
+- org_link: /organisations/microsoftdocs
+  org_name: Microsoft Docs
+  repo_desc: Windows Server
+  repo_link: https://github.com/MicrosoftDocs/windowsserverdocs.pt-br
+  repo_name: windowsserverdocs.pt-br
