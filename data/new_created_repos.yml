@@ -1,54 +1,53 @@
 RECENT_REPOS:
-- org_link: /organisations/leggedrobotics
-  org_name: ETH Zurich Legged Robotics
+- org_link: /organisations/arenanet
+  org_name: ArenaNet
   repo_desc: NA
-  repo_link: https://github.com/leggedrobotics/raisimLib
-  repo_name: raisimLib
-- org_link: /organisations/leggedrobotics
-  org_name: ETH Zurich Legged Robotics
-  repo_desc: NA
-  repo_link: https://github.com/leggedrobotics/raisimGym
-  repo_name: raisimGym
-- org_link: /organisations/nanoporetech
-  org_name: Oxford Nanopore Technologies
-  repo_desc: NA
-  repo_link: https://github.com/nanoporetech/homebrew-tap
-  repo_name: homebrew-tap
-- org_link: /organisations/bytedance
-  org_name: Bytedance Inc.
-  repo_desc: This plugin allows sending jobs status notification to your work group
-    with Lark, and help you understand the build result.
-  repo_link: https://github.com/bytedance/jenkins-plugin-lark
-  repo_name: jenkins-plugin-lark
-- org_link: /organisations/bytedance
-  org_name: Bytedance Inc.
-  repo_desc: Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with
-    Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go,
-    Javascript and more
-  repo_link: https://github.com/bytedance/incubator-mxnet
-  repo_name: incubator-mxnet
-- org_link: /organisations/elastic
-  org_name: elastic
-  repo_desc: Homebrew tap for the Elastic Stack
-  repo_link: https://github.com/elastic/homebrew-tap
-  repo_name: homebrew-tap
-- org_link: /organisations/mozilla
-  org_name: Mozilla
-  repo_desc: DeepSpeech based forced alignment tool
-  repo_link: https://github.com/mozilla/DSAlign
-  repo_name: DSAlign
-- org_link: /organisations/mozilla
-  org_name: Mozilla
-  repo_desc: Changes letter avatars to be more Mozilla
-  repo_link: https://github.com/mozilla/discourse-mozilla-letter-avatar
-  repo_name: discourse-mozilla-letter-avatar
-- org_link: /organisations/microsoftdocs
-  org_name: Microsoft Docs
-  repo_desc: Windows Server
-  repo_link: https://github.com/MicrosoftDocs/windowsserverdocs.ru-ru
-  repo_name: windowsserverdocs.ru-ru
+  repo_link: https://github.com/arenanet/prettier-config
+  repo_name: prettier-config
+- org_link: /organisations/wicg
+  org_name: Web Incubator CG
+  repo_desc: Privacy Preserving Ad Click Attribution
+  repo_link: https://github.com/WICG/ad-click-attribution
+  repo_name: ad-click-attribution
+- org_link: /organisations/aws
+  org_name: Amazon Web Services
+  repo_desc: Greengrass Java SDK
+  repo_link: https://github.com/aws/aws-greengrass-core-sdk-java
+  repo_name: aws-greengrass-core-sdk-java
+- org_link: /organisations/awslabs
+  org_name: Amazon Web Services - Labs
+  repo_desc: A Go Library for programmatically generating Fluentd and Fluent Bit Configuration.
+  repo_link: https://github.com/awslabs/go-config-generator-for-fluentd-and-fluentbit
+  repo_name: go-config-generator-for-fluentd-and-fluentbit
+- org_link: /organisations/azure
+  org_name: Microsoft Azure
+  repo_desc: Command line tools utilising Azure Computer Vision Cognitive Services
+    using the mlhub.ai framework
+  repo_link: https://github.com/Azure/azcv
+  repo_name: azcv
+- org_link: /organisations/azure
+  org_name: Microsoft Azure
+  repo_desc: Command line tools utilising Azure Speech to Text Cognitive Services
+    using the mlhub.ai framework
+  repo_link: https://github.com/Azure/azspeech2txt
+  repo_name: azspeech2txt
+- org_link: /organisations/microsoft
+  org_name: Microsoft
+  repo_desc: A React-based MakeCode Extension
+  repo_link: https://github.com/microsoft/pxt-react-extension-template
+  repo_name: pxt-react-extension-template
+- org_link: /organisations/twitter
+  org_name: Twitter, Inc.
+  repo_desc: Document Repository for Twitter's Curation Style Guide
+  repo_link: https://github.com/twitter/curation-style-guide
+  repo_name: curation-style-guide
 - org_link: /organisations/microsoftdocs
   org_name: Microsoft Docs
   repo_desc: Windows Server
   repo_link: https://github.com/MicrosoftDocs/windowsserverdocs.pt-br
   repo_name: windowsserverdocs.pt-br
+- org_link: /organisations/microsoftdocs
+  org_name: Microsoft Docs
+  repo_desc: Windows Server
+  repo_link: https://github.com/MicrosoftDocs/windowsserverdocs.ru-ru
+  repo_name: windowsserverdocs.ru-ru
