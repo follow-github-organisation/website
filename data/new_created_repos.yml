@@ -1,53 +1,53 @@
 RECENT_REPOS:
-- org_link: /organisations/arenanet
-  org_name: ArenaNet
-  repo_desc: NA
-  repo_link: https://github.com/arenanet/prettier-config
-  repo_name: prettier-config
-- org_link: /organisations/wicg
-  org_name: Web Incubator CG
-  repo_desc: Privacy Preserving Ad Click Attribution
-  repo_link: https://github.com/WICG/ad-click-attribution
-  repo_name: ad-click-attribution
-- org_link: /organisations/aws
-  org_name: Amazon Web Services
-  repo_desc: Greengrass Java SDK
-  repo_link: https://github.com/aws/aws-greengrass-core-sdk-java
-  repo_name: aws-greengrass-core-sdk-java
-- org_link: /organisations/awslabs
-  org_name: Amazon Web Services - Labs
-  repo_desc: A Go Library for programmatically generating Fluentd and Fluent Bit Configuration.
-  repo_link: https://github.com/awslabs/go-config-generator-for-fluentd-and-fluentbit
-  repo_name: go-config-generator-for-fluentd-and-fluentbit
-- org_link: /organisations/azure
-  org_name: Microsoft Azure
-  repo_desc: Command line tools utilising Azure Computer Vision Cognitive Services
-    using the mlhub.ai framework
-  repo_link: https://github.com/Azure/azcv
-  repo_name: azcv
+- org_link: /organisations/bytedance
+  org_name: Bytedance Inc.
+  repo_desc: A lightweight parameter server interface
+  repo_link: https://github.com/bytedance/ps-lite
+  repo_name: ps-lite
+- org_link: /organisations/microsoftdocs
+  org_name: Microsoft Docs
+  repo_desc: Windows Server
+  repo_link: https://github.com/MicrosoftDocs/windowsserverdocs.ru-ru
+  repo_name: windowsserverdocs.ru-ru
+- org_link: /organisations/microsoftdocs
+  org_name: Microsoft Docs
+  repo_desc: Windows Server
+  repo_link: https://github.com/MicrosoftDocs/windowsserverdocs.pt-br
+  repo_name: windowsserverdocs.pt-br
+- org_link: /organisations/twitter
+  org_name: Twitter, Inc.
+  repo_desc: Document Repository for Twitter's Curation Style Guide
+  repo_link: https://github.com/twitter/curation-style-guide
+  repo_name: curation-style-guide
+- org_link: /organisations/microsoft
+  org_name: Microsoft
+  repo_desc: A React-based MakeCode Extension
+  repo_link: https://github.com/microsoft/pxt-react-extension-template
+  repo_name: pxt-react-extension-template
 - org_link: /organisations/azure
   org_name: Microsoft Azure
   repo_desc: Command line tools utilising Azure Speech to Text Cognitive Services
     using the mlhub.ai framework
   repo_link: https://github.com/Azure/azspeech2txt
   repo_name: azspeech2txt
-- org_link: /organisations/microsoft
-  org_name: Microsoft
-  repo_desc: A React-based MakeCode Extension
-  repo_link: https://github.com/microsoft/pxt-react-extension-template
-  repo_name: pxt-react-extension-template
-- org_link: /organisations/twitter
-  org_name: Twitter, Inc.
-  repo_desc: Document Repository for Twitter's Curation Style Guide
-  repo_link: https://github.com/twitter/curation-style-guide
-  repo_name: curation-style-guide
-- org_link: /organisations/microsoftdocs
-  org_name: Microsoft Docs
-  repo_desc: Windows Server
-  repo_link: https://github.com/MicrosoftDocs/windowsserverdocs.pt-br
-  repo_name: windowsserverdocs.pt-br
-- org_link: /organisations/microsoftdocs
-  org_name: Microsoft Docs
-  repo_desc: Windows Server
-  repo_link: https://github.com/MicrosoftDocs/windowsserverdocs.ru-ru
-  repo_name: windowsserverdocs.ru-ru
+- org_link: /organisations/azure
+  org_name: Microsoft Azure
+  repo_desc: Command line tools utilising Azure Computer Vision Cognitive Services
+    using the mlhub.ai framework
+  repo_link: https://github.com/Azure/azcv
+  repo_name: azcv
+- org_link: /organisations/awslabs
+  org_name: Amazon Web Services - Labs
+  repo_desc: A Go Library for programmatically generating Fluentd and Fluent Bit Configuration.
+  repo_link: https://github.com/awslabs/go-config-generator-for-fluentd-and-fluentbit
+  repo_name: go-config-generator-for-fluentd-and-fluentbit
+- org_link: /organisations/aws
+  org_name: Amazon Web Services
+  repo_desc: Greengrass Java SDK
+  repo_link: https://github.com/aws/aws-greengrass-core-sdk-java
+  repo_name: aws-greengrass-core-sdk-java
+- org_link: /organisations/wicg
+  org_name: Web Incubator CG
+  repo_desc: Privacy Preserving Ad Click Attribution
+  repo_link: https://github.com/WICG/ad-click-attribution
+  repo_name: ad-click-attribution
