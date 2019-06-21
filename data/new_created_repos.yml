@@ -1,53 +1,52 @@
 RECENT_REPOS:
-- org_link: /organisations/bytedance
-  org_name: Bytedance Inc.
-  repo_desc: A lightweight parameter server interface
-  repo_link: https://github.com/bytedance/ps-lite
-  repo_name: ps-lite
+- org_link: /organisations/w3c
+  org_name: World Wide Web Consortium
+  repo_desc: "How to Make Natural Product \u2013 Drug Interaction Study Data Findable,\
+    \ Accessible, Interoperable And Reusable (FAIR)"
+  repo_link: https://github.com/w3c/hcls-natural-product-drug-interaction-fair
+  repo_name: hcls-natural-product-drug-interaction-fair
+- org_link: /organisations/tencent
+  org_name: Tencent
+  repo_desc: "\u96F6\u53CD\u5C04\u5168\u52A8\u6001Android\u63D2\u4EF6\u6846\u67B6"
+  repo_link: https://github.com/Tencent/Shadow
+  repo_name: Shadow
 - org_link: /organisations/microsoftdocs
   org_name: Microsoft Docs
-  repo_desc: Windows Server
-  repo_link: https://github.com/MicrosoftDocs/windowsserverdocs.ru-ru
-  repo_name: windowsserverdocs.ru-ru
+  repo_desc: Windows Driver
+  repo_link: https://github.com/MicrosoftDocs/windows-driver-docs.de-de
+  repo_name: windows-driver-docs.de-de
 - org_link: /organisations/microsoftdocs
   org_name: Microsoft Docs
-  repo_desc: Windows Server
-  repo_link: https://github.com/MicrosoftDocs/windowsserverdocs.pt-br
-  repo_name: windowsserverdocs.pt-br
-- org_link: /organisations/twitter
-  org_name: Twitter, Inc.
-  repo_desc: Document Repository for Twitter's Curation Style Guide
-  repo_link: https://github.com/twitter/curation-style-guide
-  repo_name: curation-style-guide
-- org_link: /organisations/microsoft
-  org_name: Microsoft
-  repo_desc: A React-based MakeCode Extension
-  repo_link: https://github.com/microsoft/pxt-react-extension-template
-  repo_name: pxt-react-extension-template
-- org_link: /organisations/azure
-  org_name: Microsoft Azure
-  repo_desc: Command line tools utilising Azure Speech to Text Cognitive Services
-    using the mlhub.ai framework
-  repo_link: https://github.com/Azure/azspeech2txt
-  repo_name: azspeech2txt
-- org_link: /organisations/azure
-  org_name: Microsoft Azure
-  repo_desc: Command line tools utilising Azure Computer Vision Cognitive Services
-    using the mlhub.ai framework
-  repo_link: https://github.com/Azure/azcv
-  repo_name: azcv
-- org_link: /organisations/awslabs
-  org_name: Amazon Web Services - Labs
-  repo_desc: A Go Library for programmatically generating Fluentd and Fluent Bit Configuration.
-  repo_link: https://github.com/awslabs/go-config-generator-for-fluentd-and-fluentbit
-  repo_name: go-config-generator-for-fluentd-and-fluentbit
-- org_link: /organisations/aws
-  org_name: Amazon Web Services
-  repo_desc: Greengrass Java SDK
-  repo_link: https://github.com/aws/aws-greengrass-core-sdk-java
-  repo_name: aws-greengrass-core-sdk-java
-- org_link: /organisations/wicg
-  org_name: Web Incubator CG
-  repo_desc: Privacy Preserving Ad Click Attribution
-  repo_link: https://github.com/WICG/ad-click-attribution
-  repo_name: ad-click-attribution
+  repo_desc: Windows Driver
+  repo_link: https://github.com/MicrosoftDocs/windows-driver-docs.es-es
+  repo_name: windows-driver-docs.es-es
+- org_link: /organisations/microsoftdocs
+  org_name: Microsoft Docs
+  repo_desc: Windows Driver
+  repo_link: https://github.com/MicrosoftDocs/windows-driver-docs.fr-fr
+  repo_name: windows-driver-docs.fr-fr
+- org_link: /organisations/microsoftdocs
+  org_name: Microsoft Docs
+  repo_desc: Windows Driver
+  repo_link: https://github.com/MicrosoftDocs/windows-driver-docs.it-it
+  repo_name: windows-driver-docs.it-it
+- org_link: /organisations/microsoftdocs
+  org_name: Microsoft Docs
+  repo_desc: Windows Driver
+  repo_link: https://github.com/MicrosoftDocs/windows-driver-docs.ja-jp
+  repo_name: windows-driver-docs.ja-jp
+- org_link: /organisations/microsoftdocs
+  org_name: Microsoft Docs
+  repo_desc: Windows Driver
+  repo_link: https://github.com/MicrosoftDocs/windows-driver-docs.ko-kr
+  repo_name: windows-driver-docs.ko-kr
+- org_link: /organisations/microsoftdocs
+  org_name: Microsoft Docs
+  repo_desc: Windows Driver
+  repo_link: https://github.com/MicrosoftDocs/windows-driver-docs.pt-br
+  repo_name: windows-driver-docs.pt-br
+- org_link: /organisations/microsoftdocs
+  org_name: Microsoft Docs
+  repo_desc: Windows Driver
+  repo_link: https://github.com/MicrosoftDocs/windows-driver-docs.ru-ru
+  repo_name: windows-driver-docs.ru-ru
