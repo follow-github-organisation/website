@@ -1,51 +1,53 @@
 RECENT_REPOS:
-- org_link: /organisations/rocketchat
-  org_name: Rocket.Chat
-  repo_desc: NA
-  repo_link: https://github.com/RocketChat/alexa-rocketchat-notification
-  repo_name: alexa-rocketchat-notification
+- org_link: /organisations/shopify
+  org_name: Shopify
+  repo_desc: A Typechecker for Ruby
+  repo_link: https://github.com/Shopify/sorbet
+  repo_name: sorbet
 - org_link: /organisations/awslabs
   org_name: Amazon Web Services - Labs
   repo_desc: A Go Library for programmatically generating Fluentd and Fluent Bit Configuration.
   repo_link: https://github.com/awslabs/go-config-generator-for-fluentd-and-fluentbit
   repo_name: go-config-generator-for-fluentd-and-fluentbit
-- org_link: /organisations/dotnet
-  org_name: .NET Foundation
-  repo_desc: NA
-  repo_link: https://github.com/dotnet/try-samples
-  repo_name: try-samples
-- org_link: /organisations/facebookresearch
-  org_name: Facebook Research
-  repo_desc: Causal Proxy Variables
-  repo_link: https://github.com/facebookresearch/CausalProxyVariables
-  repo_name: CausalProxyVariables
-- org_link: /organisations/microsoft
-  org_name: Microsoft
-  repo_desc: mimalloc is a compact general purpose allocator with excellent performance.
-  repo_link: https://github.com/microsoft/mimalloc
-  repo_name: mimalloc
+- org_link: /organisations/elastic
+  org_name: elastic
+  repo_desc: Homebrew tap for the Elastic Stack
+  repo_link: https://github.com/elastic/homebrew-tap
+  repo_name: homebrew-tap
+- org_link: /organisations/ms-iot
+  org_name: Microsoft IoT
+  repo_desc: 'The ecl-lite stack includes packages with few dependencies on either
+    system or c++ functionality. This makes it ideal for very embedded builds where
+    many of the usual mechanisms are unavailable.  '
+  repo_link: https://github.com/ms-iot/ecl_lite
+  repo_name: ecl_lite
+- org_link: /organisations/ms-iot
+  org_name: Microsoft IoT
+  repo_desc: Core (non-ros) kobuki packages.
+  repo_link: https://github.com/ms-iot/kobuki_core
+  repo_name: kobuki_core
+- org_link: /organisations/ms-iot
+  org_name: Microsoft IoT
+  repo_desc: Yujin Robot's open-source control libraries
+  repo_link: https://github.com/ms-iot/yujin_ocs
+  repo_name: yujin_ocs
 - org_link: /organisations/microsoft
   org_name: Microsoft
   repo_desc: A React-based MakeCode Extension
   repo_link: https://github.com/microsoft/pxt-react-extension-template
   repo_name: pxt-react-extension-template
-- org_link: /organisations/microsoftdocs
-  org_name: Microsoft Docs
-  repo_desc: Windows Driver
-  repo_link: https://github.com/MicrosoftDocs/windows-driver-docs.ru-ru
-  repo_name: windows-driver-docs.ru-ru
-- org_link: /organisations/microsoftdocs
-  org_name: Microsoft Docs
-  repo_desc: Windows Driver
-  repo_link: https://github.com/MicrosoftDocs/windows-driver-docs.pt-br
-  repo_name: windows-driver-docs.pt-br
-- org_link: /organisations/microsoftdocs
-  org_name: Microsoft Docs
-  repo_desc: Windows Driver
-  repo_link: https://github.com/MicrosoftDocs/windows-driver-docs.ko-kr
-  repo_name: windows-driver-docs.ko-kr
-- org_link: /organisations/microsoftdocs
-  org_name: Microsoft Docs
-  repo_desc: Windows Driver
-  repo_link: https://github.com/MicrosoftDocs/windows-driver-docs.ja-jp
-  repo_name: windows-driver-docs.ja-jp
+- org_link: /organisations/nytimes
+  org_name: The New York Times
+  repo_desc: 'Files from the NYT data training program, available for public use. '
+  repo_link: https://github.com/nytimes/data-training
+  repo_name: data-training
+- org_link: /organisations/google
+  org_name: Google
+  repo_desc: Converts to and from timescales with smeared leap seconds
+  repo_link: https://github.com/google/unsmear
+  repo_name: unsmear
+- org_link: /organisations/google
+  org_name: Google
+  repo_desc: Kleaver is an experimental tool for managing out-of-tree kernel modules.
+  repo_link: https://github.com/google/kleaver
+  repo_name: kleaver
