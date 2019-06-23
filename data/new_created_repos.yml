@@ -1,49 +1,9 @@
 RECENT_REPOS:
-- org_link: /organisations/owasp
-  org_name: OWASP
-  repo_desc: NA
-  repo_link: https://github.com/OWASP/GlobalAppSecHome
-  repo_name: GlobalAppSecHome
 - org_link: /organisations/unity-technologies
   org_name: Unity Technologies
   repo_desc: NA
-  repo_link: https://github.com/Unity-Technologies/hw19-dots-gamejam-voxel-game
-  repo_name: hw19-dots-gamejam-voxel-game
-- org_link: /organisations/rocketchat
-  org_name: Rocket.Chat
-  repo_desc: Anywhere anytime Alexa flash briefing publishing - powered by Rocket.Chat
-  repo_link: https://github.com/RocketChat/alexa-rocketchat-flashbriefing
-  repo_name: alexa-rocketchat-flashbriefing
-- org_link: /organisations/google
-  org_name: Google
-  repo_desc: Kleaver is an experimental tool for managing out-of-tree kernel modules.
-  repo_link: https://github.com/google/kleaver
-  repo_name: kleaver
-- org_link: /organisations/google
-  org_name: Google
-  repo_desc: Converts to and from timescales with smeared leap seconds
-  repo_link: https://github.com/google/unsmear
-  repo_name: unsmear
-- org_link: /organisations/nytimes
-  org_name: The New York Times
-  repo_desc: 'Files from the NYT data training program, available for public use. '
-  repo_link: https://github.com/nytimes/data-training
-  repo_name: data-training
-- org_link: /organisations/microsoft
-  org_name: Microsoft
-  repo_desc: A React-based MakeCode Extension
-  repo_link: https://github.com/microsoft/pxt-react-extension-template
-  repo_name: pxt-react-extension-template
-- org_link: /organisations/ms-iot
-  org_name: Microsoft IoT
-  repo_desc: Yujin Robot's open-source control libraries
-  repo_link: https://github.com/ms-iot/yujin_ocs
-  repo_name: yujin_ocs
-- org_link: /organisations/ms-iot
-  org_name: Microsoft IoT
-  repo_desc: Core (non-ros) kobuki packages.
-  repo_link: https://github.com/ms-iot/kobuki_core
-  repo_name: kobuki_core
+  repo_link: https://github.com/Unity-Technologies/hw19-convex
+  repo_name: hw19-convex
 - org_link: /organisations/ms-iot
   org_name: Microsoft IoT
   repo_desc: 'The ecl-lite stack includes packages with few dependencies on either
@@ -51,3 +11,43 @@ RECENT_REPOS:
     many of the usual mechanisms are unavailable.  '
   repo_link: https://github.com/ms-iot/ecl_lite
   repo_name: ecl_lite
+- org_link: /organisations/ms-iot
+  org_name: Microsoft IoT
+  repo_desc: Core (non-ros) kobuki packages.
+  repo_link: https://github.com/ms-iot/kobuki_core
+  repo_name: kobuki_core
+- org_link: /organisations/ms-iot
+  org_name: Microsoft IoT
+  repo_desc: Yujin Robot's open-source control libraries
+  repo_link: https://github.com/ms-iot/yujin_ocs
+  repo_name: yujin_ocs
+- org_link: /organisations/microsoft
+  org_name: Microsoft
+  repo_desc: A React-based MakeCode Extension
+  repo_link: https://github.com/microsoft/pxt-react-extension-template
+  repo_name: pxt-react-extension-template
+- org_link: /organisations/nytimes
+  org_name: The New York Times
+  repo_desc: 'Files from the NYT data training program, available for public use. '
+  repo_link: https://github.com/nytimes/data-training
+  repo_name: data-training
+- org_link: /organisations/google
+  org_name: Google
+  repo_desc: Converts to and from timescales with smeared leap seconds
+  repo_link: https://github.com/google/unsmear
+  repo_name: unsmear
+- org_link: /organisations/google
+  org_name: Google
+  repo_desc: Kleaver is an experimental tool for managing out-of-tree kernel modules.
+  repo_link: https://github.com/google/kleaver
+  repo_name: kleaver
+- org_link: /organisations/rocketchat
+  org_name: Rocket.Chat
+  repo_desc: Anywhere anytime Alexa flash briefing publishing - powered by Rocket.Chat
+  repo_link: https://github.com/RocketChat/alexa-rocketchat-flashbriefing
+  repo_name: alexa-rocketchat-flashbriefing
+- org_link: /organisations/unity-technologies
+  org_name: Unity Technologies
+  repo_desc: NA
+  repo_link: https://github.com/Unity-Technologies/hw19-dots-gamejam-voxel-game
+  repo_name: hw19-dots-gamejam-voxel-game
