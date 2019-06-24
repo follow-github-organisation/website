@@ -1,9 +1,40 @@
 RECENT_REPOS:
-- org_link: /organisations/vuejs
-  org_name: vuejs
-  repo_desc: Automatically migrate components to the Function API
-  repo_link: https://github.com/vuejs/function-api-converter
-  repo_name: function-api-converter
+- org_link: /organisations/square
+  org_name: Square
+  repo_desc: NA
+  repo_link: https://github.com/square/square-ruby-sdk
+  repo_name: square-ruby-sdk
+- org_link: /organisations/instamojo
+  org_name: Instamojo
+  repo_desc: SAML 2.0 Identity Provider in Django
+  repo_link: https://github.com/Instamojo/djangosaml2idp
+  repo_name: djangosaml2idp
+- org_link: /organisations/instamojo
+  org_name: Instamojo
+  repo_desc: A maintenance fork of the original and no longer maintained djangosaml2
+    library.
+  repo_link: https://github.com/Instamojo/djangosaml2
+  repo_name: djangosaml2
+- org_link: /organisations/nanoporetech
+  org_name: Oxford Nanopore Technologies
+  repo_desc: NA
+  repo_link: https://github.com/nanoporetech/homebrew-tap
+  repo_name: homebrew-tap
+- org_link: /organisations/rocketchat
+  org_name: Rocket.Chat
+  repo_desc: Anywhere anytime Alexa flash briefing publishing - powered by Rocket.Chat
+  repo_link: https://github.com/RocketChat/alexa-rocketchat-flashbriefing
+  repo_name: alexa-rocketchat-flashbriefing
+- org_link: /organisations/xamarin
+  org_name: Xamarin
+  repo_desc: NA
+  repo_link: https://github.com/xamarin/get-started
+  repo_name: get-started
+- org_link: /organisations/azure
+  org_name: Microsoft Azure
+  repo_desc: azure-kusto-parquet-conv
+  repo_link: https://github.com/Azure/azure-kusto-parquet-conv
+  repo_name: azure-kusto-parquet-conv
 - org_link: /organisations/unity-technologies
   org_name: Unity Technologies
   repo_desc: Better in every way
@@ -12,40 +43,10 @@ RECENT_REPOS:
 - org_link: /organisations/unity-technologies
   org_name: Unity Technologies
   repo_desc: NA
-  repo_link: https://github.com/Unity-Technologies/hw19-dots-gamejam-voxel-game
-  repo_name: hw19-dots-gamejam-voxel-game
-- org_link: /organisations/rocketchat
-  org_name: Rocket.Chat
-  repo_desc: Anywhere anytime Alexa flash briefing publishing - powered by Rocket.Chat
-  repo_link: https://github.com/RocketChat/alexa-rocketchat-flashbriefing
-  repo_name: alexa-rocketchat-flashbriefing
-- org_link: /organisations/google
-  org_name: Google
-  repo_desc: Kleaver is an experimental tool for managing out-of-tree kernel modules.
-  repo_link: https://github.com/google/kleaver
-  repo_name: kleaver
-- org_link: /organisations/google
-  org_name: Google
-  repo_desc: Converts to and from timescales with smeared leap seconds
-  repo_link: https://github.com/google/unsmear
-  repo_name: unsmear
-- org_link: /organisations/nytimes
-  org_name: The New York Times
-  repo_desc: 'Files from the NYT data training program, available for public use. '
-  repo_link: https://github.com/nytimes/data-training
-  repo_name: data-training
+  repo_link: https://github.com/Unity-Technologies/com.unity.mocks
+  repo_name: com.unity.mocks
 - org_link: /organisations/microsoft
   org_name: Microsoft
   repo_desc: A React-based MakeCode Extension
   repo_link: https://github.com/microsoft/pxt-react-extension-template
   repo_name: pxt-react-extension-template
-- org_link: /organisations/ms-iot
-  org_name: Microsoft IoT
-  repo_desc: Yujin Robot's open-source control libraries
-  repo_link: https://github.com/ms-iot/yujin_ocs
-  repo_name: yujin_ocs
-- org_link: /organisations/ms-iot
-  org_name: Microsoft IoT
-  repo_desc: Core (non-ros) kobuki packages.
-  repo_link: https://github.com/ms-iot/kobuki_core
-  repo_name: kobuki_core
