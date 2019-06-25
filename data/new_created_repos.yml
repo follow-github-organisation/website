@@ -1,44 +1,40 @@
 RECENT_REPOS:
-- org_link: /organisations/bytedance
-  org_name: Bytedance Inc.
-  repo_desc: A high performance and general framework for deep learning
-  repo_link: https://github.com/bytedance/byteps
-  repo_name: byteps
-- org_link: /organisations/vuejs
-  org_name: vuejs
-  repo_desc: Vue2 plugin for the function-based RFC.
-  repo_link: https://github.com/vuejs/vue-function-api
-  repo_name: vue-function-api
-- org_link: /organisations/microsoftdocs
-  org_name: Microsoft Docs
+- org_link: /organisations/exercism
+  org_name: exercism
   repo_desc: NA
-  repo_link: https://github.com/MicrosoftDocs/eden-test-provision.zh-cn
-  repo_name: eden-test-provision.zh-cn
-- org_link: /organisations/microsoftdocs
-  org_name: Microsoft Docs
+  repo_link: https://github.com/exercism/scala-analyzer
+  repo_name: scala-analyzer
+- org_link: /organisations/elastic
+  org_name: elastic
+  repo_desc: Homebrew tap for the Elastic Stack
+  repo_link: https://github.com/elastic/homebrew-tap
+  repo_name: homebrew-tap
+- org_link: /organisations/unity-technologies
+  org_name: Unity Technologies
   repo_desc: NA
-  repo_link: https://github.com/MicrosoftDocs/testint25061414
-  repo_name: testint25061414
-- org_link: /organisations/rocketchat
-  org_name: Rocket.Chat
-  repo_desc: react-native as an engine to drive share extension
-  repo_link: https://github.com/RocketChat/rn-extensions-share
-  repo_name: rn-extensions-share
+  repo_link: https://github.com/Unity-Technologies/com.unity.mocks
+  repo_name: com.unity.mocks
+- org_link: /organisations/microsoft
+  org_name: Microsoft
+  repo_desc: 'Sample implementation of the "Windows Update Services: Server-Server"
+    protocol.'
+  repo_link: https://github.com/microsoft/update-server-server-sync
+  repo_name: update-server-server-sync
+- org_link: /organisations/google
+  org_name: Google
+  repo_desc: Kleaver is an experimental tool for managing out-of-tree kernel modules.
+  repo_link: https://github.com/google/kleaver
+  repo_name: kleaver
+- org_link: /organisations/mozilla
+  org_name: Mozilla
+  repo_desc: NA
+  repo_link: https://github.com/mozilla/taar_monitor
+  repo_name: taar_monitor
 - org_link: /organisations/netflix
   org_name: Netflix, Inc.
-  repo_desc: NA
-  repo_link: https://github.com/Netflix/mantis-examples
-  repo_name: mantis-examples
-- org_link: /organisations/netflix
-  org_name: Netflix, Inc.
-  repo_desc: 'nerror: rich JavaScript errors'
-  repo_link: https://github.com/Netflix/nerror
-  repo_name: nerror
-- org_link: /organisations/netflix
-  org_name: Netflix, Inc.
-  repo_desc: NA
-  repo_link: https://github.com/Netflix/netflixoss-npm-build-infrastructure
-  repo_name: netflixoss-npm-build-infrastructure
+  repo_desc: Test various aspects of network interactions from your clients.
+  repo_link: https://github.com/Netflix/probnik
+  repo_name: probnik
 - org_link: /organisations/netflix
   org_name: Netflix, Inc.
   repo_desc: NA
@@ -46,6 +42,11 @@ RECENT_REPOS:
   repo_name: mantis-publish
 - org_link: /organisations/netflix
   org_name: Netflix, Inc.
-  repo_desc: Test various aspects of network interactions from your clients.
-  repo_link: https://github.com/Netflix/probnik
-  repo_name: probnik
+  repo_desc: NA
+  repo_link: https://github.com/Netflix/netflixoss-npm-build-infrastructure
+  repo_name: netflixoss-npm-build-infrastructure
+- org_link: /organisations/netflix
+  org_name: Netflix, Inc.
+  repo_desc: 'nerror: rich JavaScript errors'
+  repo_link: https://github.com/Netflix/nerror
+  repo_name: nerror
