@@ -1,52 +1,51 @@
 RECENT_REPOS:
-- org_link: /organisations/square
-  org_name: Square
+- org_link: /organisations/the-pudding
+  org_name: The Pudding
   repo_desc: NA
-  repo_link: https://github.com/square/square-ruby-sdk
-  repo_name: square-ruby-sdk
-- org_link: /organisations/instamojo
-  org_name: Instamojo
-  repo_desc: SAML 2.0 Identity Provider in Django
-  repo_link: https://github.com/Instamojo/djangosaml2idp
-  repo_name: djangosaml2idp
-- org_link: /organisations/instamojo
-  org_name: Instamojo
-  repo_desc: A maintenance fork of the original and no longer maintained djangosaml2
-    library.
-  repo_link: https://github.com/Instamojo/djangosaml2
-  repo_name: djangosaml2
-- org_link: /organisations/nanoporetech
-  org_name: Oxford Nanopore Technologies
-  repo_desc: NA
-  repo_link: https://github.com/nanoporetech/homebrew-tap
-  repo_name: homebrew-tap
+  repo_link: https://github.com/the-pudding/libraries-data
+  repo_name: libraries-data
 - org_link: /organisations/rocketchat
   org_name: Rocket.Chat
   repo_desc: Anywhere anytime Alexa flash briefing publishing - powered by Rocket.Chat
   repo_link: https://github.com/RocketChat/alexa-rocketchat-flashbriefing
   repo_name: alexa-rocketchat-flashbriefing
-- org_link: /organisations/xamarin
-  org_name: Xamarin
+- org_link: /organisations/rocketchat
+  org_name: Rocket.Chat
+  repo_desc: react-native as an engine to drive share extension
+  repo_link: https://github.com/RocketChat/rn-extensions-share
+  repo_name: rn-extensions-share
+- org_link: /organisations/netflix
+  org_name: Netflix, Inc.
   repo_desc: NA
-  repo_link: https://github.com/xamarin/get-started
-  repo_name: get-started
-- org_link: /organisations/azure
-  org_name: Microsoft Azure
-  repo_desc: azure-kusto-parquet-conv
-  repo_link: https://github.com/Azure/azure-kusto-parquet-conv
-  repo_name: azure-kusto-parquet-conv
-- org_link: /organisations/unity-technologies
-  org_name: Unity Technologies
-  repo_desc: Better in every way
-  repo_link: https://github.com/Unity-Technologies/hw19-better-coroutines
-  repo_name: hw19-better-coroutines
-- org_link: /organisations/unity-technologies
-  org_name: Unity Technologies
+  repo_link: https://github.com/Netflix/mantis-examples
+  repo_name: mantis-examples
+- org_link: /organisations/netflix
+  org_name: Netflix, Inc.
+  repo_desc: 'nerror: rich JavaScript errors'
+  repo_link: https://github.com/Netflix/nerror
+  repo_name: nerror
+- org_link: /organisations/netflix
+  org_name: Netflix, Inc.
   repo_desc: NA
-  repo_link: https://github.com/Unity-Technologies/com.unity.mocks
-  repo_name: com.unity.mocks
-- org_link: /organisations/microsoft
-  org_name: Microsoft
-  repo_desc: A React-based MakeCode Extension
-  repo_link: https://github.com/microsoft/pxt-react-extension-template
-  repo_name: pxt-react-extension-template
+  repo_link: https://github.com/Netflix/netflixoss-npm-build-infrastructure
+  repo_name: netflixoss-npm-build-infrastructure
+- org_link: /organisations/netflix
+  org_name: Netflix, Inc.
+  repo_desc: NA
+  repo_link: https://github.com/Netflix/mantis-publish
+  repo_name: mantis-publish
+- org_link: /organisations/netflix
+  org_name: Netflix, Inc.
+  repo_desc: Test various aspects of network interactions from your clients.
+  repo_link: https://github.com/Netflix/probnik
+  repo_name: probnik
+- org_link: /organisations/netflix
+  org_name: Netflix, Inc.
+  repo_desc: NA
+  repo_link: https://github.com/Netflix/mantis-rxnetty
+  repo_name: mantis-rxnetty
+- org_link: /organisations/netflix
+  org_name: Netflix, Inc.
+  repo_desc: NA
+  repo_link: https://github.com/Netflix/mantis-gradle-plugin
+  repo_name: mantis-gradle-plugin
