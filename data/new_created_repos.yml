@@ -1,39 +1,24 @@
 RECENT_REPOS:
-- org_link: /organisations/the-pudding
-  org_name: The Pudding
-  repo_desc: NA
-  repo_link: https://github.com/the-pudding/libraries-data
-  repo_name: libraries-data
-- org_link: /organisations/rocketchat
-  org_name: Rocket.Chat
-  repo_desc: Anywhere anytime Alexa flash briefing publishing - powered by Rocket.Chat
-  repo_link: https://github.com/RocketChat/alexa-rocketchat-flashbriefing
-  repo_name: alexa-rocketchat-flashbriefing
-- org_link: /organisations/rocketchat
-  org_name: Rocket.Chat
-  repo_desc: react-native as an engine to drive share extension
-  repo_link: https://github.com/RocketChat/rn-extensions-share
-  repo_name: rn-extensions-share
+- org_link: /organisations/plotly
+  org_name: Plotly
+  repo_desc: 'ALPHA: Scheduler plugin for deploying applications to kubernetes'
+  repo_link: https://github.com/plotly/dokku-scheduler-kubernetes
+  repo_name: dokku-scheduler-kubernetes
+- org_link: /organisations/tencent
+  org_name: Tencent
+  repo_desc: "\u96F6\u53CD\u5C04\u5168\u52A8\u6001Android\u63D2\u4EF6\u6846\u67B6"
+  repo_link: https://github.com/Tencent/Shadow
+  repo_name: Shadow
 - org_link: /organisations/netflix
   org_name: Netflix, Inc.
   repo_desc: NA
-  repo_link: https://github.com/Netflix/mantis-examples
-  repo_name: mantis-examples
-- org_link: /organisations/netflix
-  org_name: Netflix, Inc.
-  repo_desc: 'nerror: rich JavaScript errors'
-  repo_link: https://github.com/Netflix/nerror
-  repo_name: nerror
+  repo_link: https://github.com/Netflix/mantis-gradle-plugin
+  repo_name: mantis-gradle-plugin
 - org_link: /organisations/netflix
   org_name: Netflix, Inc.
   repo_desc: NA
-  repo_link: https://github.com/Netflix/netflixoss-npm-build-infrastructure
-  repo_name: netflixoss-npm-build-infrastructure
-- org_link: /organisations/netflix
-  org_name: Netflix, Inc.
-  repo_desc: NA
-  repo_link: https://github.com/Netflix/mantis-publish
-  repo_name: mantis-publish
+  repo_link: https://github.com/Netflix/mantis-rxnetty
+  repo_name: mantis-rxnetty
 - org_link: /organisations/netflix
   org_name: Netflix, Inc.
   repo_desc: Test various aspects of network interactions from your clients.
@@ -42,10 +27,25 @@ RECENT_REPOS:
 - org_link: /organisations/netflix
   org_name: Netflix, Inc.
   repo_desc: NA
-  repo_link: https://github.com/Netflix/mantis-rxnetty
-  repo_name: mantis-rxnetty
+  repo_link: https://github.com/Netflix/mantis-publish
+  repo_name: mantis-publish
 - org_link: /organisations/netflix
   org_name: Netflix, Inc.
   repo_desc: NA
-  repo_link: https://github.com/Netflix/mantis-gradle-plugin
-  repo_name: mantis-gradle-plugin
+  repo_link: https://github.com/Netflix/netflixoss-npm-build-infrastructure
+  repo_name: netflixoss-npm-build-infrastructure
+- org_link: /organisations/netflix
+  org_name: Netflix, Inc.
+  repo_desc: 'nerror: rich JavaScript errors'
+  repo_link: https://github.com/Netflix/nerror
+  repo_name: nerror
+- org_link: /organisations/netflix
+  org_name: Netflix, Inc.
+  repo_desc: NA
+  repo_link: https://github.com/Netflix/mantis-examples
+  repo_name: mantis-examples
+- org_link: /organisations/rocketchat
+  org_name: Rocket.Chat
+  repo_desc: react-native as an engine to drive share extension
+  repo_link: https://github.com/RocketChat/rn-extensions-share
+  repo_name: rn-extensions-share
