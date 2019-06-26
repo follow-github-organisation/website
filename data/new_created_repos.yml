@@ -1,52 +1,52 @@
 RECENT_REPOS:
-- org_link: /organisations/exercism
-  org_name: exercism
+- org_link: /organisations/owasp
+  org_name: OWASP
   repo_desc: NA
-  repo_link: https://github.com/exercism/scala-analyzer
-  repo_name: scala-analyzer
-- org_link: /organisations/elastic
-  org_name: elastic
-  repo_desc: Homebrew tap for the Elastic Stack
-  repo_link: https://github.com/elastic/homebrew-tap
-  repo_name: homebrew-tap
-- org_link: /organisations/unity-technologies
-  org_name: Unity Technologies
+  repo_link: https://github.com/OWASP/wpBullet
+  repo_name: wpBullet
+- org_link: /organisations/owasp
+  org_name: OWASP
   repo_desc: NA
-  repo_link: https://github.com/Unity-Technologies/com.unity.mocks
-  repo_name: com.unity.mocks
+  repo_link: https://github.com/OWASP/Voice-Automated-Application-Security
+  repo_name: Voice-Automated-Application-Security
+- org_link: /organisations/polymer
+  org_name: Polymer Project
+  repo_desc: Middleware for Koa servers that transforms standard JavaScript modules
+    to AMD modules for use with older browsers that don't support modules natively.
+  repo_link: https://github.com/Polymer/koa-esm-to-amd
+  repo_name: koa-esm-to-amd
+- org_link: /organisations/azure
+  org_name: Microsoft Azure
+  repo_desc: Azure Face API commands through the MLHub platform
+  repo_link: https://github.com/Azure/azface
+  repo_name: azface
+- org_link: /organisations/ms-iot
+  org_name: Microsoft IoT
+  repo_desc: ROS Packages to Supplement ROS on Windows Installation
+  repo_link: https://github.com/ms-iot/rosonwindows_pkgs
+  repo_name: rosonwindows_pkgs
+- org_link: /organisations/microsoftdocs
+  org_name: Microsoft Docs
+  repo_desc: 'Microsoft Learn: Use developer tools to extend the Power Platform'
+  repo_link: https://github.com/MicrosoftDocs/mslearn-developer-tools-power-platform
+  repo_name: mslearn-developer-tools-power-platform
 - org_link: /organisations/microsoft
   org_name: Microsoft
-  repo_desc: 'Sample implementation of the "Windows Update Services: Server-Server"
-    protocol.'
-  repo_link: https://github.com/microsoft/update-server-server-sync
-  repo_name: update-server-server-sync
-- org_link: /organisations/google
-  org_name: Google
-  repo_desc: Kleaver is an experimental tool for managing out-of-tree kernel modules.
-  repo_link: https://github.com/google/kleaver
-  repo_name: kleaver
-- org_link: /organisations/mozilla
-  org_name: Mozilla
-  repo_desc: NA
-  repo_link: https://github.com/mozilla/taar_monitor
-  repo_name: taar_monitor
-- org_link: /organisations/netflix
-  org_name: Netflix, Inc.
-  repo_desc: Test various aspects of network interactions from your clients.
-  repo_link: https://github.com/Netflix/probnik
-  repo_name: probnik
-- org_link: /organisations/netflix
-  org_name: Netflix, Inc.
-  repo_desc: NA
-  repo_link: https://github.com/Netflix/mantis-publish
-  repo_name: mantis-publish
-- org_link: /organisations/netflix
-  org_name: Netflix, Inc.
-  repo_desc: NA
-  repo_link: https://github.com/Netflix/netflixoss-npm-build-infrastructure
-  repo_name: netflixoss-npm-build-infrastructure
+  repo_desc: OKR Hub
+  repo_link: https://github.com/microsoft/OKR-Hub
+  repo_name: OKR-Hub
+- org_link: /organisations/microsoft
+  org_name: Microsoft
+  repo_desc: The Sunniest Semantic Version Bumper
+  repo_link: https://github.com/microsoft/beachball
+  repo_name: beachball
 - org_link: /organisations/netflix
   org_name: Netflix, Inc.
   repo_desc: 'nerror: rich JavaScript errors'
   repo_link: https://github.com/Netflix/nerror
   repo_name: nerror
+- org_link: /organisations/netflix
+  org_name: Netflix, Inc.
+  repo_desc: NA
+  repo_link: https://github.com/Netflix/netflixoss-npm-build-infrastructure
+  repo_name: netflixoss-npm-build-infrastructure
