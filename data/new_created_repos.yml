@@ -1,53 +1,51 @@
 RECENT_REPOS:
-- org_link: /organisations/nvlabs
-  org_name: NVIDIA Research Projects
-  repo_desc: Efficient DataLoader for PyTorch and Keras for loading datasets from
-    web servers and object stores.
-  repo_link: https://github.com/NVlabs/webloader
-  repo_name: webloader
-- org_link: /organisations/nvlabs
-  org_name: NVIDIA Research Projects
-  repo_desc: A small library for training PyTorch models (vaguely similar to Keras
-    training).
-  repo_link: https://github.com/NVlabs/torchtrainers
-  repo_name: torchtrainers
-- org_link: /organisations/azure
-  org_name: Microsoft Azure
-  repo_desc: Command Line Tool for interacting with Azure Container Registry Images
-  repo_link: https://github.com/Azure/acr-cli
-  repo_name: acr-cli
+- org_link: /organisations/telerik
+  org_name: Telerik
+  repo_desc: NA
+  repo_link: https://github.com/telerik/kedno-react-accessibility
+  repo_name: kedno-react-accessibility
 - org_link: /organisations/microsoftdocs
   org_name: Microsoft Docs
-  repo_desc: NA
-  repo_link: https://github.com/MicrosoftDocs/eden-test-prod
-  repo_name: eden-test-prod
+  repo_desc: Windows UWP
+  repo_link: https://github.com/MicrosoftDocs/windows-uwp.de-de
+  repo_name: windows-uwp.de-de
 - org_link: /organisations/microsoftdocs
   org_name: Microsoft Docs
-  repo_desc: NA
-  repo_link: https://github.com/MicrosoftDocs/eden-test-prod.zh-cn
-  repo_name: eden-test-prod.zh-cn
-- org_link: /organisations/netflix
-  org_name: Netflix, Inc.
-  repo_desc: NA
-  repo_link: https://github.com/Netflix/netflixoss-npm-build-infrastructure
-  repo_name: netflixoss-npm-build-infrastructure
-- org_link: /organisations/netflix
-  org_name: Netflix, Inc.
-  repo_desc: 'nerror: rich JavaScript errors'
-  repo_link: https://github.com/Netflix/nerror
-  repo_name: nerror
-- org_link: /organisations/microsoft
-  org_name: Microsoft
-  repo_desc: The Sunniest Semantic Version Bumper
-  repo_link: https://github.com/microsoft/beachball
-  repo_name: beachball
-- org_link: /organisations/microsoft
-  org_name: Microsoft
-  repo_desc: OKR Hub
-  repo_link: https://github.com/microsoft/OKR-Hub
-  repo_name: OKR-Hub
+  repo_desc: Windows UWP
+  repo_link: https://github.com/MicrosoftDocs/windows-uwp.es-es
+  repo_name: windows-uwp.es-es
 - org_link: /organisations/microsoftdocs
   org_name: Microsoft Docs
-  repo_desc: 'Microsoft Learn: Use developer tools to extend the Power Platform'
-  repo_link: https://github.com/MicrosoftDocs/mslearn-developer-tools-power-platform
-  repo_name: mslearn-developer-tools-power-platform
+  repo_desc: Windows UWP
+  repo_link: https://github.com/MicrosoftDocs/windows-uwp.fr-fr
+  repo_name: windows-uwp.fr-fr
+- org_link: /organisations/microsoftdocs
+  org_name: Microsoft Docs
+  repo_desc: Windows UWP
+  repo_link: https://github.com/MicrosoftDocs/windows-uwp.it-it
+  repo_name: windows-uwp.it-it
+- org_link: /organisations/microsoftdocs
+  org_name: Microsoft Docs
+  repo_desc: Windows UWP
+  repo_link: https://github.com/MicrosoftDocs/windows-uwp.ja-jp
+  repo_name: windows-uwp.ja-jp
+- org_link: /organisations/microsoftdocs
+  org_name: Microsoft Docs
+  repo_desc: Windows UWP
+  repo_link: https://github.com/MicrosoftDocs/windows-uwp.ko-kr
+  repo_name: windows-uwp.ko-kr
+- org_link: /organisations/microsoftdocs
+  org_name: Microsoft Docs
+  repo_desc: Windows UWP
+  repo_link: https://github.com/MicrosoftDocs/windows-uwp.pt-br
+  repo_name: windows-uwp.pt-br
+- org_link: /organisations/microsoftdocs
+  org_name: Microsoft Docs
+  repo_desc: Windows UWP
+  repo_link: https://github.com/MicrosoftDocs/windows-uwp.ru-ru
+  repo_name: windows-uwp.ru-ru
+- org_link: /organisations/microsoftdocs
+  org_name: Microsoft Docs
+  repo_desc: Windows UWP
+  repo_link: https://github.com/MicrosoftDocs/windows-uwp.zh-cn
+  repo_name: windows-uwp.zh-cn
