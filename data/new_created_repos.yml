@@ -1,46 +1,20 @@
 RECENT_REPOS:
-- org_link: /organisations/sandialabs
-  org_name: Sandia National Laboratories
-  repo_desc: Sandia Uncertainty Quantification Toolkit
-  repo_link: https://github.com/sandialabs/UQTk
-  repo_name: UQTk
-- org_link: /organisations/flexport
-  org_name: Flexport
-  repo_desc: Build, tag, and push Docker images to Amazon ECR
-  repo_link: https://github.com/flexport/docker-ecr-publish-buildkite-plugin
-  repo_name: docker-ecr-publish-buildkite-plugin
-- org_link: /organisations/netflix
-  org_name: Netflix, Inc.
-  repo_desc: NA
-  repo_link: https://github.com/Netflix/mantis-ui
-  repo_name: mantis-ui
-- org_link: /organisations/elastic
-  org_name: elastic
-  repo_desc: POI Icon Set
-  repo_link: https://github.com/elastic/maki
-  repo_name: maki
-- org_link: /organisations/microsoftgraph
-  org_name: Microsoft Graph
-  repo_desc: Community contributed extensions to the Microsoft Graph .NET SDK service
-    library, to support APIs that have not yet made it into Microsoft Graph
-  repo_link: https://github.com/microsoftgraph/msgraph-sdk-dotnet-contrib
-  repo_name: msgraph-sdk-dotnet-contrib
-- org_link: /organisations/officedev
-  org_name: Office Developer
-  repo_desc: Library of Zzure artifacts to assist in installing components needed
-    to automate testing of Office Add-ins
-  repo_link: https://github.com/OfficeDev/Office-Addin-Test-Artifacts
-  repo_name: Office-Addin-Test-Artifacts
+- org_link: /organisations/azure
+  org_name: Microsoft Azure
+  repo_desc: Azure Translate Service for MLHub.ai
+  repo_link: https://github.com/Azure/aztranslate
+  repo_name: aztranslate
 - org_link: /organisations/microsoft
   org_name: Microsoft
-  repo_desc: The Sunniest Semantic Version Bumper
-  repo_link: https://github.com/microsoft/beachball
-  repo_name: beachball
+  repo_desc: The Website for TypeScript
+  repo_link: https://github.com/microsoft/TypeScript-Website
+  repo_name: TypeScript-Website
 - org_link: /organisations/microsoft
   org_name: Microsoft
-  repo_desc: A Create React App based starter with UI Fabric goodness baked in
-  repo_link: https://github.com/microsoft/create-react-app-uifabric
-  repo_name: create-react-app-uifabric
+  repo_desc: Code samples and extended documentation to support the guidance provided
+    in the Microsoft Cloud Adoption Framework
+  repo_link: https://github.com/microsoft/CloudAdoptionFramework
+  repo_name: CloudAdoptionFramework
 - org_link: /organisations/microsoft
   org_name: Microsoft
   repo_desc: Gatsby.js starter for UI Fabric projects
@@ -48,7 +22,33 @@ RECENT_REPOS:
   repo_name: gatsby-starter-uifabric
 - org_link: /organisations/microsoft
   org_name: Microsoft
-  repo_desc: Code samples and extended documentation to support the guidance provided
-    in the Microsoft Cloud Adoption Framework
-  repo_link: https://github.com/microsoft/CloudAdoptionFramework
-  repo_name: CloudAdoptionFramework
+  repo_desc: A Create React App based starter with UI Fabric goodness baked in
+  repo_link: https://github.com/microsoft/create-react-app-uifabric
+  repo_name: create-react-app-uifabric
+- org_link: /organisations/microsoft
+  org_name: Microsoft
+  repo_desc: The Sunniest Semantic Version Bumper
+  repo_link: https://github.com/microsoft/beachball
+  repo_name: beachball
+- org_link: /organisations/officedev
+  org_name: Office Developer
+  repo_desc: Library of Zzure artifacts to assist in installing components needed
+    to automate testing of Office Add-ins
+  repo_link: https://github.com/OfficeDev/Office-Addin-Test-Artifacts
+  repo_name: Office-Addin-Test-Artifacts
+- org_link: /organisations/microsoftgraph
+  org_name: Microsoft Graph
+  repo_desc: Community contributed extensions to the Microsoft Graph .NET SDK service
+    library, to support APIs that have not yet made it into Microsoft Graph
+  repo_link: https://github.com/microsoftgraph/msgraph-sdk-dotnet-contrib
+  repo_name: msgraph-sdk-dotnet-contrib
+- org_link: /organisations/elastic
+  org_name: elastic
+  repo_desc: POI Icon Set
+  repo_link: https://github.com/elastic/maki
+  repo_name: maki
+- org_link: /organisations/netflix
+  org_name: Netflix, Inc.
+  repo_desc: NA
+  repo_link: https://github.com/Netflix/mantis-ui
+  repo_name: mantis-ui
