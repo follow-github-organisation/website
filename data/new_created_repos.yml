@@ -1,55 +1,54 @@
 RECENT_REPOS:
-- org_link: /organisations/owasp
-  org_name: OWASP
+- org_link: /organisations/mycroftai
+  org_name: Mycroft
   repo_desc: NA
-  repo_link: https://github.com/OWASP/video-portal
-  repo_name: video-portal
-- org_link: /organisations/xamarin
-  org_name: Xamarin
+  repo_link: https://github.com/MycroftAI/skill-mark-2-pi
+  repo_name: skill-mark-2-pi
+- org_link: /organisations/cloudflare
+  org_name: Cloudflare
   repo_desc: NA
-  repo_link: https://github.com/xamarin/get-started
-  repo_name: get-started
-- org_link: /organisations/microsoftdocs
-  org_name: Microsoft Docs
-  repo_desc: Sample code for the "Develop and configure an ASP.NET application that
-    queries an Azure SQL Database" Microsoft Learn module
-  repo_link: https://github.com/MicrosoftDocs/mslearn-develop-app-that-queries-azure-sql
-  repo_name: mslearn-develop-app-that-queries-azure-sql
-- org_link: /organisations/microsoft
-  org_name: Microsoft
-  repo_desc: Code samples and extended documentation to support the guidance provided
-    in the Microsoft Cloud Adoption Framework
-  repo_link: https://github.com/microsoft/CloudAdoptionFramework
-  repo_name: CloudAdoptionFramework
-- org_link: /organisations/microsoft
-  org_name: Microsoft
-  repo_desc: Gatsby.js starter for UI Fabric projects
-  repo_link: https://github.com/microsoft/gatsby-starter-uifabric
-  repo_name: gatsby-starter-uifabric
-- org_link: /organisations/microsoft
-  org_name: Microsoft
-  repo_desc: A Create React App based starter with UI Fabric goodness baked in
-  repo_link: https://github.com/microsoft/create-react-app-uifabric
-  repo_name: create-react-app-uifabric
-- org_link: /organisations/microsoft
-  org_name: Microsoft
-  repo_desc: The Sunniest Semantic Version Bumper
-  repo_link: https://github.com/microsoft/beachball
-  repo_name: beachball
-- org_link: /organisations/officedev
-  org_name: Office Developer
-  repo_desc: Library of Zzure artifacts to assist in installing components needed
-    to automate testing of Office Add-ins
-  repo_link: https://github.com/OfficeDev/Office-Addin-Test-Artifacts
-  repo_name: Office-Addin-Test-Artifacts
+  repo_link: https://github.com/cloudflare/the-deep-dive-into-how-verizon-and-a-bgp-optimizer-knocked-large-parts-of-the-internet-offline-monda
+  repo_name: the-deep-dive-into-how-verizon-and-a-bgp-optimizer-knocked-large-parts-of-the-internet-offline-monda
+- org_link: /organisations/exercism
+  org_name: exercism
+  repo_desc: NA
+  repo_link: https://github.com/exercism/common-lisp-analyzer
+  repo_name: common-lisp-analyzer
+- org_link: /organisations/rstudio
+  org_name: RStudio
+  repo_desc: Create parsons problems in learnr tutorials
+  repo_link: https://github.com/rstudio/parsons
+  repo_name: parsons
+- org_link: /organisations/polymer
+  org_name: Polymer Project
+  repo_desc: An adapter for the css-select package to allow querying of parse5 generated
+    trees.
+  repo_link: https://github.com/Polymer/css-select-parse5-adapter
+  repo_name: css-select-parse5-adapter
+- org_link: /organisations/aws
+  org_name: Amazon Web Services
+  repo_desc: Greengrass Nodejs SDK
+  repo_link: https://github.com/aws/aws-greengrass-core-sdk-js
+  repo_name: aws-greengrass-core-sdk-js
+- org_link: /organisations/aws
+  org_name: Amazon Web Services
+  repo_desc: Greengrass Java SDK
+  repo_link: https://github.com/aws/aws-greengrass-core-sdk-java
+  repo_name: aws-greengrass-core-sdk-java
 - org_link: /organisations/microsoftgraph
   org_name: Microsoft Graph
   repo_desc: Community contributed extensions to the Microsoft Graph .NET SDK service
     library, to support APIs that have not yet made it into Microsoft Graph
   repo_link: https://github.com/microsoftgraph/msgraph-sdk-dotnet-contrib
   repo_name: msgraph-sdk-dotnet-contrib
-- org_link: /organisations/elastic
-  org_name: elastic
-  repo_desc: POI Icon Set
-  repo_link: https://github.com/elastic/maki
-  repo_name: maki
+- org_link: /organisations/symfony
+  org_name: Symfony
+  repo_desc: The ErrorCatcher component provides tools to manage and display errors
+    and exceptions.
+  repo_link: https://github.com/symfony/error-catcher
+  repo_name: error-catcher
+- org_link: /organisations/google
+  org_name: Google
+  repo_desc: NA
+  repo_link: https://github.com/google/neural_rerendering_in_the_wild
+  repo_name: neural_rerendering_in_the_wild
