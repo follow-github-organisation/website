@@ -1,55 +1,51 @@
 RECENT_REPOS:
-- org_link: /organisations/google-research
-  org_name: Google AI Research
+- org_link: /organisations/openai
+  org_name: OpenAI
+  repo_desc: OpenAI Remote Rendering Backend
+  repo_link: https://github.com/openai/orrb
+  repo_name: orrb
+- org_link: /organisations/microsoftdocs
+  org_name: Microsoft Docs
   repo_desc: NA
-  repo_link: https://github.com/google-research/tf-slim
-  repo_name: tf-slim
-- org_link: /organisations/officedev
-  org_name: Office Developer
-  repo_desc: The List Search app lets users search for and share items in a SharePoint
-    list, all from Microsoft Teams.
-  repo_link: https://github.com/OfficeDev/microsoft-teams-list-search-app
-  repo_name: microsoft-teams-list-search-app
-- org_link: /organisations/google
-  org_name: Google
+  repo_link: https://github.com/MicrosoftDocs/forms-pro-pr.ca-es
+  repo_name: forms-pro-pr.ca-es
+- org_link: /organisations/microsoftdocs
+  org_name: Microsoft Docs
   repo_desc: NA
-  repo_link: https://github.com/google/retrieval-qa-eval
-  repo_name: retrieval-qa-eval
-- org_link: /organisations/mozilla
-  org_name: Mozilla
-  repo_desc: Demonstrates how to make a 2019-style Normandy add-on study
-  repo_link: https://github.com/mozilla/normandy-nextgen-study-example
-  repo_name: normandy-nextgen-study-example
-- org_link: /organisations/google
-  org_name: Google
+  repo_link: https://github.com/MicrosoftDocs/forms-pro-pr.fr-fr
+  repo_name: forms-pro-pr.fr-fr
+- org_link: /organisations/microsoftdocs
+  org_name: Microsoft Docs
   repo_desc: NA
-  repo_link: https://github.com/google/neural_rerendering_in_the_wild
-  repo_name: neural_rerendering_in_the_wild
-- org_link: /organisations/symfony
-  org_name: Symfony
-  repo_desc: The ErrorCatcher component provides tools to manage and display errors
-    and exceptions.
-  repo_link: https://github.com/symfony/error-catcher
-  repo_name: error-catcher
-- org_link: /organisations/microsoftgraph
-  org_name: Microsoft Graph
-  repo_desc: Community contributed extensions to the Microsoft Graph .NET SDK service
-    library, to support APIs that have not yet made it into Microsoft Graph
-  repo_link: https://github.com/microsoftgraph/msgraph-sdk-dotnet-contrib
-  repo_name: msgraph-sdk-dotnet-contrib
-- org_link: /organisations/aws
-  org_name: Amazon Web Services
-  repo_desc: Greengrass Java SDK
-  repo_link: https://github.com/aws/aws-greengrass-core-sdk-java
-  repo_name: aws-greengrass-core-sdk-java
-- org_link: /organisations/aws
-  org_name: Amazon Web Services
-  repo_desc: Greengrass Nodejs SDK
-  repo_link: https://github.com/aws/aws-greengrass-core-sdk-js
-  repo_name: aws-greengrass-core-sdk-js
-- org_link: /organisations/polymer
-  org_name: Polymer Project
-  repo_desc: An adapter for the css-select package to allow querying of parse5 generated
-    trees.
-  repo_link: https://github.com/Polymer/css-select-parse5-adapter
-  repo_name: css-select-parse5-adapter
+  repo_link: https://github.com/MicrosoftDocs/forms-pro-pr.gl-es
+  repo_name: forms-pro-pr.gl-es
+- org_link: /organisations/microsoftdocs
+  org_name: Microsoft Docs
+  repo_desc: NA
+  repo_link: https://github.com/MicrosoftDocs/forms-pro-pr.et-ee
+  repo_name: forms-pro-pr.et-ee
+- org_link: /organisations/microsoftdocs
+  org_name: Microsoft Docs
+  repo_desc: NA
+  repo_link: https://github.com/MicrosoftDocs/forms-pro-pr.he-il
+  repo_name: forms-pro-pr.he-il
+- org_link: /organisations/microsoftdocs
+  org_name: Microsoft Docs
+  repo_desc: NA
+  repo_link: https://github.com/MicrosoftDocs/forms-pro-pr.id-id
+  repo_name: forms-pro-pr.id-id
+- org_link: /organisations/microsoftdocs
+  org_name: Microsoft Docs
+  repo_desc: NA
+  repo_link: https://github.com/MicrosoftDocs/forms-pro-pr.it-it
+  repo_name: forms-pro-pr.it-it
+- org_link: /organisations/microsoftdocs
+  org_name: Microsoft Docs
+  repo_desc: NA
+  repo_link: https://github.com/MicrosoftDocs/forms-pro-pr.hr-hr
+  repo_name: forms-pro-pr.hr-hr
+- org_link: /organisations/microsoftdocs
+  org_name: Microsoft Docs
+  repo_desc: NA
+  repo_link: https://github.com/MicrosoftDocs/forms-pro-pr.hi-in
+  repo_name: forms-pro-pr.hi-in
