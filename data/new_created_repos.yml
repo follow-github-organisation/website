@@ -1,54 +1,54 @@
 RECENT_REPOS:
-- org_link: /organisations/netflix-skunkworks
-  org_name: Netflix-Skunkworks
-  repo_desc: A yocto based OS preview for the MagicModem
-  repo_link: https://github.com/Netflix-Skunkworks/manaospre
-  repo_name: manaospre
-- org_link: /organisations/microsoft
-  org_name: Microsoft
-  repo_desc: The Website for TypeScript
-  repo_link: https://github.com/microsoft/TypeScript-Website
-  repo_name: TypeScript-Website
+- org_link: /organisations/the-pudding
+  org_name: The Pudding
+  repo_desc: NA
+  repo_link: https://github.com/the-pudding/book-covers
+  repo_name: book-covers
+- org_link: /organisations/google
+  org_name: Google
+  repo_desc: NA
+  repo_link: https://github.com/google/telluride_decoding
+  repo_name: telluride_decoding
+- org_link: /organisations/mapbox
+  org_name: Mapbox
+  repo_desc: Make friendly workflows for creating maps
+  repo_link: https://github.com/mapbox/consumer-workflow-solution
+  repo_name: consumer-workflow-solution
+- org_link: /organisations/nvlabs
+  org_name: NVIDIA Research Projects
+  repo_desc: NA
+  repo_link: https://github.com/NVlabs/DG-Net
+  repo_name: DG-Net
 - org_link: /organisations/microsoft
   org_name: Microsoft
   repo_desc: 'A PyTorch Extension:  Tools for easy mixed precision and distributed
     training in Pytorch'
   repo_link: https://github.com/microsoft/apex
   repo_name: apex
-- org_link: /organisations/microsoft
-  org_name: Microsoft
-  repo_desc: Microsoft Project Acoustics
-  repo_link: https://github.com/microsoft/ProjectAcoustics
-  repo_name: ProjectAcoustics
-- org_link: /organisations/microsoftdocs
-  org_name: Microsoft Docs
-  repo_desc: GitHub Issue tracking for FSLogix product documentation
-  repo_link: https://github.com/MicrosoftDocs/fslogix-docs
-  repo_name: fslogix-docs
-- org_link: /organisations/microsoftdocs
-  org_name: Microsoft Docs
-  repo_desc: NA
-  repo_link: https://github.com/MicrosoftDocs/forms-pro-pr.hi-in
-  repo_name: forms-pro-pr.hi-in
 - org_link: /organisations/google
   org_name: Google
   repo_desc: Basis Universal GPU Texture Codec - please make contributions upstream
     at BinomialLLC
   repo_link: https://github.com/google/basis_universal
   repo_name: basis_universal
+- org_link: /organisations/microsoftdocs
+  org_name: Microsoft Docs
+  repo_desc: NA
+  repo_link: https://github.com/MicrosoftDocs/forms-pro-pr.hi-in
+  repo_name: forms-pro-pr.hi-in
+- org_link: /organisations/microsoftdocs
+  org_name: Microsoft Docs
+  repo_desc: GitHub Issue tracking for FSLogix product documentation
+  repo_link: https://github.com/MicrosoftDocs/fslogix-docs
+  repo_name: fslogix-docs
+- org_link: /organisations/microsoft
+  org_name: Microsoft
+  repo_desc: Microsoft Project Acoustics
+  repo_link: https://github.com/microsoft/ProjectAcoustics
+  repo_name: ProjectAcoustics
 - org_link: /organisations/microsoft
   org_name: Microsoft
   repo_desc: 'A PyTorch Extension:  Tools for easy mixed precision and distributed
     training in Pytorch'
   repo_link: https://github.com/microsoft/apex
   repo_name: apex
-- org_link: /organisations/nvlabs
-  org_name: NVIDIA Research Projects
-  repo_desc: NA
-  repo_link: https://github.com/NVlabs/DG-Net
-  repo_name: DG-Net
-- org_link: /organisations/mapbox
-  org_name: Mapbox
-  repo_desc: Make friendly workflows for creating maps
-  repo_link: https://github.com/mapbox/consumer-workflow-solution
-  repo_name: consumer-workflow-solution
