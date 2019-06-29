@@ -1,51 +1,53 @@
 RECENT_REPOS:
-- org_link: /organisations/nanoporetech
-  org_name: Oxford Nanopore Technologies
+- org_link: /organisations/owasp
+  org_name: OWASP
   repo_desc: NA
-  repo_link: https://github.com/nanoporetech/homebrew-tap
-  repo_name: homebrew-tap
-- org_link: /organisations/microsoftdocs
-  org_name: Microsoft Docs
+  repo_link: https://github.com/OWASP/IOT-Analytics-4Industry4
+  repo_name: IOT-Analytics-4Industry4
+- org_link: /organisations/auxoncorp
+  org_name: Auxon Corporation
+  repo_desc: A more idiomatic binding of JVM cucumber to Clojure
+  repo_link: https://github.com/auxoncorp/clj-cucumber
+  repo_name: clj-cucumber
+- org_link: /organisations/rstudio
+  org_name: RStudio
+  repo_desc: Create parsons problems in learnr tutorials
+  repo_link: https://github.com/rstudio/parsons
+  repo_name: parsons
+- org_link: /organisations/the-pudding
+  org_name: The Pudding
   repo_desc: NA
-  repo_link: https://github.com/MicrosoftDocs/forms-pro-pr.sk-sk
-  repo_name: forms-pro-pr.sk-sk
-- org_link: /organisations/microsoftdocs
-  org_name: Microsoft Docs
+  repo_link: https://github.com/the-pudding/earnings-call
+  repo_name: earnings-call
+- org_link: /organisations/mapbox
+  org_name: Mapbox
+  repo_desc: Make friendly workflows for creating maps
+  repo_link: https://github.com/mapbox/consumer-workflow-solution
+  repo_name: consumer-workflow-solution
+- org_link: /organisations/nvlabs
+  org_name: NVIDIA Research Projects
   repo_desc: NA
-  repo_link: https://github.com/MicrosoftDocs/forms-pro-pr.pl-pl
-  repo_name: forms-pro-pr.pl-pl
-- org_link: /organisations/microsoftdocs
-  org_name: Microsoft Docs
-  repo_desc: NA
-  repo_link: https://github.com/MicrosoftDocs/forms-pro-pr.vi-vn
-  repo_name: forms-pro-pr.vi-vn
-- org_link: /organisations/microsoftdocs
-  org_name: Microsoft Docs
-  repo_desc: NA
-  repo_link: https://github.com/MicrosoftDocs/forms-pro-pr.sv-se
-  repo_name: forms-pro-pr.sv-se
-- org_link: /organisations/microsoftdocs
-  org_name: Microsoft Docs
-  repo_desc: NA
-  repo_link: https://github.com/MicrosoftDocs/forms-pro-pr.uk-ua
-  repo_name: forms-pro-pr.uk-ua
-- org_link: /organisations/microsoftdocs
-  org_name: Microsoft Docs
-  repo_desc: NA
-  repo_link: https://github.com/MicrosoftDocs/forms-pro-pr.tr-tr
-  repo_name: forms-pro-pr.tr-tr
-- org_link: /organisations/microsoftdocs
-  org_name: Microsoft Docs
-  repo_desc: NA
-  repo_link: https://github.com/MicrosoftDocs/forms-pro-pr.th-th
-  repo_name: forms-pro-pr.th-th
-- org_link: /organisations/microsoftdocs
-  org_name: Microsoft Docs
-  repo_desc: GitHub Issue tracking for FSLogix product documentation
-  repo_link: https://github.com/MicrosoftDocs/fslogix-docs
-  repo_name: fslogix-docs
+  repo_link: https://github.com/NVlabs/DG-Net
+  repo_name: DG-Net
+- org_link: /organisations/microsoft
+  org_name: Microsoft
+  repo_desc: 'A PyTorch Extension:  Tools for easy mixed precision and distributed
+    training in Pytorch'
+  repo_link: https://github.com/microsoft/apex
+  repo_name: apex
+- org_link: /organisations/google
+  org_name: Google
+  repo_desc: Basis Universal GPU Texture Codec - please make contributions upstream
+    at BinomialLLC
+  repo_link: https://github.com/google/basis_universal
+  repo_name: basis_universal
 - org_link: /organisations/microsoftdocs
   org_name: Microsoft Docs
   repo_desc: NA
   repo_link: https://github.com/MicrosoftDocs/forms-pro-pr.hi-in
   repo_name: forms-pro-pr.hi-in
+- org_link: /organisations/microsoftdocs
+  org_name: Microsoft Docs
+  repo_desc: GitHub Issue tracking for FSLogix product documentation
+  repo_link: https://github.com/MicrosoftDocs/fslogix-docs
+  repo_name: fslogix-docs
