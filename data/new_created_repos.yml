@@ -1,53 +1,55 @@
 RECENT_REPOS:
-- org_link: /organisations/elastic
-  org_name: elastic
-  repo_desc: 'prebuild node-ctags '
-  repo_link: https://github.com/elastic/node-ctags
-  repo_name: node-ctags
-- org_link: /organisations/alibaba
-  org_name: Alibaba
-  repo_desc: iOS efficient AOP Library using C++ and libffi
-  repo_link: https://github.com/alibaba/Lokie
-  repo_name: Lokie
-- org_link: /organisations/alibaba
-  org_name: Alibaba
-  repo_desc: ESIM for Multi-turn Response Selection Task
-  repo_link: https://github.com/alibaba/esim-response-selection
-  repo_name: esim-response-selection
-- org_link: /organisations/google
-  org_name: Google
+- org_link: /organisations/italia
+  org_name: Developers Italia
+  repo_desc: CKAN is an open-source DMS (data management system) for powering data
+    hubs and data portals. CKAN makes it easy to publish, share and use data. It powers
+    datahub.io, catalog.data.gov and europeandataportal.eu/data/en/dataset among many
+    other sites.
+  repo_link: https://github.com/italia/ckan
+  repo_name: ckan
+- org_link: /organisations/italia
+  org_name: Developers Italia
+  repo_desc: "CKAN \u2665 DCAT"
+  repo_link: https://github.com/italia/ckanext-dcat
+  repo_name: ckanext-dcat
+- org_link: /organisations/italia
+  org_name: Developers Italia
+  repo_desc: Remote harvesting extension for CKAN
+  repo_link: https://github.com/italia/ckanext-harvest
+  repo_name: ckanext-harvest
+- org_link: /organisations/italia
+  org_name: Developers Italia
+  repo_desc: Geospatial extension for CKAN
+  repo_link: https://github.com/italia/ckanext-spatial
+  repo_name: ckanext-spatial
+- org_link: /organisations/italia
+  org_name: Developers Italia
+  repo_desc: A standalone web service that pushes data files from a CKAN site's resources
+    into its DataStore
+  repo_link: https://github.com/italia/datapusher
+  repo_name: datapusher
+- org_link: /organisations/owasp
+  org_name: OWASP
+  repo_desc: Contains owasp site theme specific items (headers, footers, json, menus)
+  repo_link: https://github.com/OWASP/www--site-theme
+  repo_name: www--site-theme
+- org_link: /organisations/owasp
+  org_name: OWASP
+  repo_desc: OWASP Foundation main site repository
+  repo_link: https://github.com/OWASP/www--site
+  repo_name: www--site
+- org_link: /organisations/openebs
+  org_name: OpenEBS
+  repo_desc: Helm Operator for OpenEBS Installation
+  repo_link: https://github.com/openebs/helm-operator
+  repo_name: helm-operator
+- org_link: /organisations/awslabs
+  org_name: Amazon Web Services - Labs
+  repo_desc: A Go Library for programmatically generating Fluentd and Fluent Bit Configuration.
+  repo_link: https://github.com/awslabs/go-config-generator-for-fluentd-and-fluentbit
+  repo_name: go-config-generator-for-fluentd-and-fluentbit
+- org_link: /organisations/microsoftgraph
+  org_name: Microsoft Graph
   repo_desc: NA
-  repo_link: https://github.com/google/cm-user-tool
-  repo_name: cm-user-tool
-- org_link: /organisations/microsoft
-  org_name: Microsoft
-  repo_desc: Microsoft Project Acoustics
-  repo_link: https://github.com/microsoft/ProjectAcoustics
-  repo_name: ProjectAcoustics
-- org_link: /organisations/microsoft
-  org_name: Microsoft
-  repo_desc: 'A PyTorch Extension:  Tools for easy mixed precision and distributed
-    training in Pytorch'
-  repo_link: https://github.com/microsoft/apex
-  repo_name: apex
-- org_link: /organisations/microsoft
-  org_name: Microsoft
-  repo_desc: Microsoft Project Acoustics
-  repo_link: https://github.com/microsoft/ProjectAcoustics
-  repo_name: ProjectAcoustics
-- org_link: /organisations/microsoftdocs
-  org_name: Microsoft Docs
-  repo_desc: GitHub Issue tracking for FSLogix product documentation
-  repo_link: https://github.com/MicrosoftDocs/fslogix-docs
-  repo_name: fslogix-docs
-- org_link: /organisations/microsoftdocs
-  org_name: Microsoft Docs
-  repo_desc: NA
-  repo_link: https://github.com/MicrosoftDocs/forms-pro-pr.hi-in
-  repo_name: forms-pro-pr.hi-in
-- org_link: /organisations/google
-  org_name: Google
-  repo_desc: Basis Universal GPU Texture Codec - please make contributions upstream
-    at BinomialLLC
-  repo_link: https://github.com/google/basis_universal
-  repo_name: basis_universal
+  repo_link: https://github.com/microsoftgraph/aspnet-assettracking-sample
+  repo_name: aspnet-assettracking-sample
