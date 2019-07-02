@@ -1,52 +1,52 @@
 RECENT_REPOS:
+- org_link: /organisations/deepmind
+  org_name: DeepMind
+  repo_desc: An implementation of Wasserstein Fair Classification, a conference paper
+    submitted to UAI 2019.
+  repo_link: https://github.com/deepmind/wasserstein_fairness
+  repo_name: wasserstein_fairness
+- org_link: /organisations/hashicorp
+  org_name: HashiCorp
+  repo_desc: Image files for instruqt platform tracks
+  repo_link: https://github.com/hashicorp/instruqt-assets
+  repo_name: instruqt-assets
+- org_link: /organisations/elastic
+  org_name: elastic
+  repo_desc: Provides Okta authentication for awscli
+  repo_link: https://github.com/elastic/okta-awscli
+  repo_name: okta-awscli
+- org_link: /organisations/azure
+  org_name: Microsoft Azure
+  repo_desc: Default Community Health Files for the Azure organization on GitHub
+  repo_link: https://github.com/Azure/.github
+  repo_name: .github
 - org_link: /organisations/microsoftdocs
   org_name: Microsoft Docs
   repo_desc: NA
-  repo_link: https://github.com/MicrosoftDocs/forms-pro-pr.et-ee
-  repo_name: forms-pro-pr.et-ee
-- org_link: /organisations/mozilla
-  org_name: Mozilla
-  repo_desc: A set of tools to help manage Normandy recipes
-  repo_link: https://github.com/mozilla/normandy-webtools
-  repo_name: normandy-webtools
-- org_link: /organisations/microsoftgraph
-  org_name: Microsoft Graph
+  repo_link: https://github.com/MicrosoftDocs/dynamics-365-ai-pr.eu-es
+  repo_name: dynamics-365-ai-pr.eu-es
+- org_link: /organisations/microsoftdocs
+  org_name: Microsoft Docs
   repo_desc: NA
-  repo_link: https://github.com/microsoftgraph/aspnet-assettracking-sample
-  repo_name: aspnet-assettracking-sample
-- org_link: /organisations/awslabs
-  org_name: Amazon Web Services - Labs
-  repo_desc: A Go Library for programmatically generating Fluentd and Fluent Bit Configuration.
-  repo_link: https://github.com/awslabs/go-config-generator-for-fluentd-and-fluentbit
-  repo_name: go-config-generator-for-fluentd-and-fluentbit
-- org_link: /organisations/openebs
-  org_name: OpenEBS
-  repo_desc: Helm Operator for OpenEBS Installation
-  repo_link: https://github.com/openebs/helm-operator
-  repo_name: helm-operator
-- org_link: /organisations/github
-  org_name: GitHub
+  repo_link: https://github.com/MicrosoftDocs/dynamics-365-ai-pr.et-ee
+  repo_name: dynamics-365-ai-pr.et-ee
+- org_link: /organisations/microsoftdocs
+  org_name: Microsoft Docs
   repo_desc: NA
-  repo_link: https://github.com/github/templatetest
-  repo_name: templatetest
-- org_link: /organisations/alibaba
-  org_name: Alibaba
+  repo_link: https://github.com/MicrosoftDocs/dynamics-365-ai-pr.ar-sa
+  repo_name: dynamics-365-ai-pr.ar-sa
+- org_link: /organisations/microsoftdocs
+  org_name: Microsoft Docs
   repo_desc: NA
-  repo_link: https://github.com/alibaba/lattice
-  repo_name: lattice
-- org_link: /organisations/microsoft
-  org_name: Microsoft
-  repo_desc: Builds ripgrep on Azure Pipelines for multiple platforms and makes the
-    binaries available as Github releases
-  repo_link: https://github.com/microsoft/ripgrep-prebuilt
-  repo_name: ripgrep-prebuilt
-- org_link: /organisations/microsoftgraph
-  org_name: Microsoft Graph
-  repo_desc: An API for querying the OpenAPI description of Microsoft Graph
-  repo_link: https://github.com/microsoftgraph/msgraph-openapi-introspection
-  repo_name: msgraph-openapi-introspection
-- org_link: /organisations/nuxt-community
-  org_name: Nuxt Community
-  repo_desc: Stylelint module for Nuxt.js
-  repo_link: https://github.com/nuxt-community/stylelint-module
-  repo_name: stylelint-module
+  repo_link: https://github.com/MicrosoftDocs/dynamics-365-ai-pr.gl-es
+  repo_name: dynamics-365-ai-pr.gl-es
+- org_link: /organisations/microsoftdocs
+  org_name: Microsoft Docs
+  repo_desc: NA
+  repo_link: https://github.com/MicrosoftDocs/dynamics-365-ai-pr.bg-bg
+  repo_name: dynamics-365-ai-pr.bg-bg
+- org_link: /organisations/microsoftdocs
+  org_name: Microsoft Docs
+  repo_desc: NA
+  repo_link: https://github.com/MicrosoftDocs/dynamics-365-ai-pr.ca-es
+  repo_name: dynamics-365-ai-pr.ca-es
