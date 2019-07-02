@@ -1,54 +1,52 @@
 RECENT_REPOS:
-- org_link: /organisations/aws
-  org_name: Amazon Web Services
-  repo_desc: Greengrass Java SDK
-  repo_link: https://github.com/aws/aws-greengrass-core-sdk-java
-  repo_name: aws-greengrass-core-sdk-java
-- org_link: /organisations/microsoft
-  org_name: Microsoft
-  repo_desc: Microsoft Project Acoustics
-  repo_link: https://github.com/microsoft/ProjectAcoustics
-  repo_name: ProjectAcoustics
-- org_link: /organisations/microsoft
-  org_name: Microsoft
-  repo_desc: Hydrate crawls a kubernetes cluster and generates a high level description
-    of your deployments.
-  repo_link: https://github.com/microsoft/hydrate
-  repo_name: hydrate
-- org_link: /organisations/microsoft
-  org_name: Microsoft
-  repo_desc: VS Code extension for Hydrate, which crawls a kubernetes cluster and
-    generates a high level description of your deployments.
-  repo_link: https://github.com/microsoft/vscode-hydrate
-  repo_name: vscode-hydrate
-- org_link: /organisations/microsoft
-  org_name: Microsoft
-  repo_desc: Difference in differences analysis toolkit to the help the business understand
-    if a program is moving the needle.
-  repo_link: https://github.com/microsoft/LongitudinalDifferenceInDifferencesPy
-  repo_name: LongitudinalDifferenceInDifferencesPy
-- org_link: /organisations/mozilla
-  org_name: Mozilla
-  repo_desc: Demonstrates how to make a 2019-style Normandy add-on study
-  repo_link: https://github.com/mozilla/normandy-nextgen-study-example
-  repo_name: normandy-nextgen-study-example
-- org_link: /organisations/mozilla
-  org_name: Mozilla
-  repo_desc: A set of tools to help manage Normandy recipes
-  repo_link: https://github.com/mozilla/normandy-webtools
-  repo_name: normandy-webtools
+- org_link: /organisations/nuxt-community
+  org_name: Nuxt Community
+  repo_desc: Stylelint module for Nuxt.js
+  repo_link: https://github.com/nuxt-community/stylelint-module
+  repo_name: stylelint-module
+- org_link: /organisations/nuxt-community
+  org_name: Nuxt Community
+  repo_desc: Stylelint module for Nuxt.js
+  repo_link: https://github.com/nuxt-community/stylelint-module
+  repo_name: stylelint-module
 - org_link: /organisations/microsoftgraph
   org_name: Microsoft Graph
+  repo_desc: An API for querying the OpenAPI description of Microsoft Graph
+  repo_link: https://github.com/microsoftgraph/msgraph-openapi-introspection
+  repo_name: msgraph-openapi-introspection
+- org_link: /organisations/microsoft
+  org_name: Microsoft
+  repo_desc: Builds ripgrep on Azure Pipelines for multiple platforms and makes the
+    binaries available as Github releases
+  repo_link: https://github.com/microsoft/ripgrep-prebuilt
+  repo_name: ripgrep-prebuilt
+- org_link: /organisations/alibaba
+  org_name: Alibaba
   repo_desc: NA
-  repo_link: https://github.com/microsoftgraph/aspnet-assettracking-sample
-  repo_name: aspnet-assettracking-sample
-- org_link: /organisations/awslabs
-  org_name: Amazon Web Services - Labs
-  repo_desc: A Go Library for programmatically generating Fluentd and Fluent Bit Configuration.
-  repo_link: https://github.com/awslabs/go-config-generator-for-fluentd-and-fluentbit
-  repo_name: go-config-generator-for-fluentd-and-fluentbit
+  repo_link: https://github.com/alibaba/lattice
+  repo_name: lattice
+- org_link: /organisations/github
+  org_name: GitHub
+  repo_desc: NA
+  repo_link: https://github.com/github/templatetest
+  repo_name: templatetest
 - org_link: /organisations/openebs
   org_name: OpenEBS
   repo_desc: Helm Operator for OpenEBS Installation
   repo_link: https://github.com/openebs/helm-operator
   repo_name: helm-operator
+- org_link: /organisations/awslabs
+  org_name: Amazon Web Services - Labs
+  repo_desc: A Go Library for programmatically generating Fluentd and Fluent Bit Configuration.
+  repo_link: https://github.com/awslabs/go-config-generator-for-fluentd-and-fluentbit
+  repo_name: go-config-generator-for-fluentd-and-fluentbit
+- org_link: /organisations/microsoftgraph
+  org_name: Microsoft Graph
+  repo_desc: NA
+  repo_link: https://github.com/microsoftgraph/aspnet-assettracking-sample
+  repo_name: aspnet-assettracking-sample
+- org_link: /organisations/mozilla
+  org_name: Mozilla
+  repo_desc: A set of tools to help manage Normandy recipes
+  repo_link: https://github.com/mozilla/normandy-webtools
+  repo_name: normandy-webtools
