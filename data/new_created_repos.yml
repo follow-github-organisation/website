@@ -1,39 +1,19 @@
 RECENT_REPOS:
-- org_link: /organisations/valvesoftware
-  org_name: Valve Software
-  repo_desc: Tracker for issues specific to the Linux and macOS client of Dota Underlords
-  repo_link: https://github.com/ValveSoftware/Dota-Underlords
-  repo_name: Dota-Underlords
-- org_link: /organisations/hashicorp
-  org_name: HashiCorp
-  repo_desc: Automatically generate Google Cloud Platform support for OSS IaaC Projects
-  repo_link: https://github.com/hashicorp/magic-modules
-  repo_name: magic-modules
-- org_link: /organisations/microsoft
-  org_name: Microsoft
-  repo_desc: Default Community Health Files for the Microsoft organization on GitHub
-  repo_link: https://github.com/microsoft/.github
+- org_link: /organisations/officedev
+  org_name: Office Developer
+  repo_desc: Microsoft teams tab powered by JSON data(teams compose extension)
+  repo_link: https://github.com/OfficeDev/microsoft-teams-json-tab
+  repo_name: microsoft-teams-json-tab
+- org_link: /organisations/azure
+  org_name: Microsoft Azure
+  repo_desc: Default Community Health Files for the Azure organization on GitHub
+  repo_link: https://github.com/Azure/.github
   repo_name: .github
 - org_link: /organisations/microsoftdocs
   org_name: Microsoft Docs
   repo_desc: NA
-  repo_link: https://github.com/MicrosoftDocs/dynamics-365-ai-pr.ca-es
-  repo_name: dynamics-365-ai-pr.ca-es
-- org_link: /organisations/microsoftdocs
-  org_name: Microsoft Docs
-  repo_desc: NA
-  repo_link: https://github.com/MicrosoftDocs/dynamics-365-ai-pr.bg-bg
-  repo_name: dynamics-365-ai-pr.bg-bg
-- org_link: /organisations/microsoftdocs
-  org_name: Microsoft Docs
-  repo_desc: NA
-  repo_link: https://github.com/MicrosoftDocs/dynamics-365-ai-pr.gl-es
-  repo_name: dynamics-365-ai-pr.gl-es
-- org_link: /organisations/microsoftdocs
-  org_name: Microsoft Docs
-  repo_desc: NA
-  repo_link: https://github.com/MicrosoftDocs/dynamics-365-ai-pr.ar-sa
-  repo_name: dynamics-365-ai-pr.ar-sa
+  repo_link: https://github.com/MicrosoftDocs/dynamics-365-ai-pr.eu-es
+  repo_name: dynamics-365-ai-pr.eu-es
 - org_link: /organisations/microsoftdocs
   org_name: Microsoft Docs
   repo_desc: NA
@@ -42,10 +22,30 @@ RECENT_REPOS:
 - org_link: /organisations/microsoftdocs
   org_name: Microsoft Docs
   repo_desc: NA
-  repo_link: https://github.com/MicrosoftDocs/dynamics-365-ai-pr.eu-es
-  repo_name: dynamics-365-ai-pr.eu-es
-- org_link: /organisations/azure
-  org_name: Microsoft Azure
-  repo_desc: Default Community Health Files for the Azure organization on GitHub
-  repo_link: https://github.com/Azure/.github
+  repo_link: https://github.com/MicrosoftDocs/dynamics-365-ai-pr.ar-sa
+  repo_name: dynamics-365-ai-pr.ar-sa
+- org_link: /organisations/microsoftdocs
+  org_name: Microsoft Docs
+  repo_desc: NA
+  repo_link: https://github.com/MicrosoftDocs/dynamics-365-ai-pr.gl-es
+  repo_name: dynamics-365-ai-pr.gl-es
+- org_link: /organisations/microsoftdocs
+  org_name: Microsoft Docs
+  repo_desc: NA
+  repo_link: https://github.com/MicrosoftDocs/dynamics-365-ai-pr.bg-bg
+  repo_name: dynamics-365-ai-pr.bg-bg
+- org_link: /organisations/microsoftdocs
+  org_name: Microsoft Docs
+  repo_desc: NA
+  repo_link: https://github.com/MicrosoftDocs/dynamics-365-ai-pr.ca-es
+  repo_name: dynamics-365-ai-pr.ca-es
+- org_link: /organisations/microsoft
+  org_name: Microsoft
+  repo_desc: Default Community Health Files for the Microsoft organization on GitHub
+  repo_link: https://github.com/microsoft/.github
   repo_name: .github
+- org_link: /organisations/hashicorp
+  org_name: HashiCorp
+  repo_desc: Automatically generate Google Cloud Platform support for OSS IaaC Projects
+  repo_link: https://github.com/hashicorp/magic-modules
+  repo_name: magic-modules
