@@ -1,45 +1,24 @@
 RECENT_REPOS:
-- org_link: /organisations/deepmind
-  org_name: DeepMind
-  repo_desc: An implementation of Wasserstein Fair Classification, a conference paper
-    submitted to UAI 2019.
-  repo_link: https://github.com/deepmind/wasserstein_fairness
-  repo_name: wasserstein_fairness
+- org_link: /organisations/valvesoftware
+  org_name: Valve Software
+  repo_desc: Tracker for issues specific to the Linux and macOS client of Dota Underlords
+  repo_link: https://github.com/ValveSoftware/Dota-Underlords
+  repo_name: Dota-Underlords
 - org_link: /organisations/hashicorp
   org_name: HashiCorp
-  repo_desc: Image files for instruqt platform tracks
-  repo_link: https://github.com/hashicorp/instruqt-assets
-  repo_name: instruqt-assets
-- org_link: /organisations/elastic
-  org_name: elastic
-  repo_desc: Provides Okta authentication for awscli
-  repo_link: https://github.com/elastic/okta-awscli
-  repo_name: okta-awscli
-- org_link: /organisations/azure
-  org_name: Microsoft Azure
-  repo_desc: Default Community Health Files for the Azure organization on GitHub
-  repo_link: https://github.com/Azure/.github
+  repo_desc: Automatically generate Google Cloud Platform support for OSS IaaC Projects
+  repo_link: https://github.com/hashicorp/magic-modules
+  repo_name: magic-modules
+- org_link: /organisations/microsoft
+  org_name: Microsoft
+  repo_desc: Default Community Health Files for the Microsoft organization on GitHub
+  repo_link: https://github.com/microsoft/.github
   repo_name: .github
 - org_link: /organisations/microsoftdocs
   org_name: Microsoft Docs
   repo_desc: NA
-  repo_link: https://github.com/MicrosoftDocs/dynamics-365-ai-pr.eu-es
-  repo_name: dynamics-365-ai-pr.eu-es
-- org_link: /organisations/microsoftdocs
-  org_name: Microsoft Docs
-  repo_desc: NA
-  repo_link: https://github.com/MicrosoftDocs/dynamics-365-ai-pr.et-ee
-  repo_name: dynamics-365-ai-pr.et-ee
-- org_link: /organisations/microsoftdocs
-  org_name: Microsoft Docs
-  repo_desc: NA
-  repo_link: https://github.com/MicrosoftDocs/dynamics-365-ai-pr.ar-sa
-  repo_name: dynamics-365-ai-pr.ar-sa
-- org_link: /organisations/microsoftdocs
-  org_name: Microsoft Docs
-  repo_desc: NA
-  repo_link: https://github.com/MicrosoftDocs/dynamics-365-ai-pr.gl-es
-  repo_name: dynamics-365-ai-pr.gl-es
+  repo_link: https://github.com/MicrosoftDocs/dynamics-365-ai-pr.ca-es
+  repo_name: dynamics-365-ai-pr.ca-es
 - org_link: /organisations/microsoftdocs
   org_name: Microsoft Docs
   repo_desc: NA
@@ -48,5 +27,25 @@ RECENT_REPOS:
 - org_link: /organisations/microsoftdocs
   org_name: Microsoft Docs
   repo_desc: NA
-  repo_link: https://github.com/MicrosoftDocs/dynamics-365-ai-pr.ca-es
-  repo_name: dynamics-365-ai-pr.ca-es
+  repo_link: https://github.com/MicrosoftDocs/dynamics-365-ai-pr.gl-es
+  repo_name: dynamics-365-ai-pr.gl-es
+- org_link: /organisations/microsoftdocs
+  org_name: Microsoft Docs
+  repo_desc: NA
+  repo_link: https://github.com/MicrosoftDocs/dynamics-365-ai-pr.ar-sa
+  repo_name: dynamics-365-ai-pr.ar-sa
+- org_link: /organisations/microsoftdocs
+  org_name: Microsoft Docs
+  repo_desc: NA
+  repo_link: https://github.com/MicrosoftDocs/dynamics-365-ai-pr.et-ee
+  repo_name: dynamics-365-ai-pr.et-ee
+- org_link: /organisations/microsoftdocs
+  org_name: Microsoft Docs
+  repo_desc: NA
+  repo_link: https://github.com/MicrosoftDocs/dynamics-365-ai-pr.eu-es
+  repo_name: dynamics-365-ai-pr.eu-es
+- org_link: /organisations/azure
+  org_name: Microsoft Azure
+  repo_desc: Default Community Health Files for the Azure organization on GitHub
+  repo_link: https://github.com/Azure/.github
+  repo_name: .github
