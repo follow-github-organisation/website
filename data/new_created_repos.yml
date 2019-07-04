@@ -1,50 +1,50 @@
 RECENT_REPOS:
-- org_link: /organisations/microsoftdocs
-  org_name: Microsoft Docs
-  repo_desc: Sample code for the "Improve application scalability and resiliency with
-    Azure Load Balancer" Microsoft Learn module
-  repo_link: https://github.com/MicrosoftDocs/mslearn-improve-app-scalability-resiliency-with-load-balancer
-  repo_name: mslearn-improve-app-scalability-resiliency-with-load-balancer
-- org_link: /organisations/microsoftdocs
-  org_name: Microsoft Docs
+- org_link: /organisations/friends-of-prestashop
+  org_name: Friends of PrestaShop
+  repo_desc: Module that experiments Doctrine ORM use in PrestaShop modules (1.7.6+)
+  repo_link: https://github.com/friends-of-prestashop/doctrine
+  repo_name: doctrine
+- org_link: /organisations/shopify
+  org_name: Shopify
+  repo_desc: A Typechecker for Ruby
+  repo_link: https://github.com/Shopify/sorbet
+  repo_name: sorbet
+- org_link: /organisations/aws
+  org_name: Amazon Web Services
+  repo_desc: Greengrass Nodejs SDK
+  repo_link: https://github.com/aws/aws-greengrass-core-sdk-js
+  repo_name: aws-greengrass-core-sdk-js
+- org_link: /organisations/aws
+  org_name: Amazon Web Services
+  repo_desc: Greengrass Java SDK
+  repo_link: https://github.com/aws/aws-greengrass-core-sdk-java
+  repo_name: aws-greengrass-core-sdk-java
+- org_link: /organisations/twitchdev
+  org_name: Twitch Developers
   repo_desc: NA
-  repo_link: https://github.com/MicrosoftDocs/dynamics-365-ai-pr.ar-sa
-  repo_name: dynamics-365-ai-pr.ar-sa
-- org_link: /organisations/microsoftdocs
-  org_name: Microsoft Docs
-  repo_desc: NA
-  repo_link: https://github.com/MicrosoftDocs/dynamics-365-ai-pr.gl-es
-  repo_name: dynamics-365-ai-pr.gl-es
-- org_link: /organisations/microsoftdocs
-  org_name: Microsoft Docs
-  repo_desc: NA
-  repo_link: https://github.com/MicrosoftDocs/dynamics-365-ai-pr.bg-bg
-  repo_name: dynamics-365-ai-pr.bg-bg
-- org_link: /organisations/microsoftdocs
-  org_name: Microsoft Docs
-  repo_desc: NA
-  repo_link: https://github.com/MicrosoftDocs/dynamics-365-ai-pr.ca-es
-  repo_name: dynamics-365-ai-pr.ca-es
+  repo_link: https://github.com/twitchdev/halo5-stats-extension
+  repo_name: halo5-stats-extension
+- org_link: /organisations/microsoft
+  org_name: Microsoft
+  repo_desc: Builds ripgrep on Azure Pipelines for multiple platforms and makes the
+    binaries available as Github releases
+  repo_link: https://github.com/microsoft/ripgrep-prebuilt
+  repo_name: ripgrep-prebuilt
 - org_link: /organisations/microsoft
   org_name: Microsoft
   repo_desc: Default Community Health Files for the Microsoft organization on GitHub
   repo_link: https://github.com/microsoft/.github
   repo_name: .github
-- org_link: /organisations/hashicorp
-  org_name: HashiCorp
-  repo_desc: Automatically generate Google Cloud Platform support for OSS IaaC Projects
-  repo_link: https://github.com/hashicorp/magic-modules
-  repo_name: magic-modules
-- org_link: /organisations/alibaba
-  org_name: Alibaba
-  repo_desc: ' A Java server-side recording and playback solution based on JVM-Sandbox'
-  repo_link: https://github.com/alibaba/jvm-sandbox-repeater
-  repo_name: jvm-sandbox-repeater
-- org_link: /organisations/w3c
-  org_name: World Wide Web Consortium
+- org_link: /organisations/google
+  org_name: Google
   repo_desc: NA
-  repo_link: https://github.com/w3c/wai-fundamentals-overview
-  repo_name: wai-fundamentals-overview
+  repo_link: https://github.com/google/pyctr
+  repo_name: pyctr
+- org_link: /organisations/google
+  org_name: Google
+  repo_desc: NA
+  repo_link: https://github.com/google/blockly-experimental
+  repo_name: blockly-experimental
 - org_link: /organisations/telerik
   org_name: Telerik
   repo_desc: Documentation generator for TypeScript projects.
