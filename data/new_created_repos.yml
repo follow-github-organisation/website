@@ -1,52 +1,52 @@
 RECENT_REPOS:
-- org_link: /organisations/friends-of-prestashop
-  org_name: Friends of PrestaShop
-  repo_desc: Module that experiments Doctrine ORM use in PrestaShop modules (1.7.6+)
-  repo_link: https://github.com/friends-of-prestashop/doctrine
-  repo_name: doctrine
-- org_link: /organisations/shopify
-  org_name: Shopify
-  repo_desc: A Typechecker for Ruby
-  repo_link: https://github.com/Shopify/sorbet
-  repo_name: sorbet
-- org_link: /organisations/aws
-  org_name: Amazon Web Services
-  repo_desc: Greengrass Nodejs SDK
-  repo_link: https://github.com/aws/aws-greengrass-core-sdk-js
-  repo_name: aws-greengrass-core-sdk-js
-- org_link: /organisations/aws
-  org_name: Amazon Web Services
-  repo_desc: Greengrass Java SDK
-  repo_link: https://github.com/aws/aws-greengrass-core-sdk-java
-  repo_name: aws-greengrass-core-sdk-java
-- org_link: /organisations/twitchdev
-  org_name: Twitch Developers
+- org_link: /organisations/the-pudding
+  org_name: The Pudding
   repo_desc: NA
-  repo_link: https://github.com/twitchdev/halo5-stats-extension
-  repo_name: halo5-stats-extension
+  repo_link: https://github.com/the-pudding/maslow-data
+  repo_name: maslow-data
+- org_link: /organisations/microsoftdocs
+  org_name: Microsoft Docs
+  repo_desc: NA
+  repo_link: https://github.com/MicrosoftDocs/eden-test-prod.de-de
+  repo_name: eden-test-prod.de-de
+- org_link: /organisations/alibaba
+  org_name: Alibaba
+  repo_desc: ' A Java server-side recording and playback solution based on JVM-Sandbox'
+  repo_link: https://github.com/alibaba/jvm-sandbox-repeater
+  repo_name: jvm-sandbox-repeater
+- org_link: /organisations/telerik
+  org_name: Telerik
+  repo_desc: Documentation generator for TypeScript projects.
+  repo_link: https://github.com/telerik/typedoc
+  repo_name: typedoc
+- org_link: /organisations/google
+  org_name: Google
+  repo_desc: NA
+  repo_link: https://github.com/google/blockly-experimental
+  repo_name: blockly-experimental
+- org_link: /organisations/google
+  org_name: Google
+  repo_desc: NA
+  repo_link: https://github.com/google/pyctr
+  repo_name: pyctr
+- org_link: /organisations/microsoft
+  org_name: Microsoft
+  repo_desc: Default Community Health Files for the Microsoft organization on GitHub
+  repo_link: https://github.com/microsoft/.github
+  repo_name: .github
 - org_link: /organisations/microsoft
   org_name: Microsoft
   repo_desc: Builds ripgrep on Azure Pipelines for multiple platforms and makes the
     binaries available as Github releases
   repo_link: https://github.com/microsoft/ripgrep-prebuilt
   repo_name: ripgrep-prebuilt
-- org_link: /organisations/microsoft
-  org_name: Microsoft
-  repo_desc: Default Community Health Files for the Microsoft organization on GitHub
-  repo_link: https://github.com/microsoft/.github
-  repo_name: .github
-- org_link: /organisations/google
-  org_name: Google
+- org_link: /organisations/twitchdev
+  org_name: Twitch Developers
   repo_desc: NA
-  repo_link: https://github.com/google/pyctr
-  repo_name: pyctr
-- org_link: /organisations/google
-  org_name: Google
-  repo_desc: NA
-  repo_link: https://github.com/google/blockly-experimental
-  repo_name: blockly-experimental
-- org_link: /organisations/telerik
-  org_name: Telerik
-  repo_desc: Documentation generator for TypeScript projects.
-  repo_link: https://github.com/telerik/typedoc
-  repo_name: typedoc
+  repo_link: https://github.com/twitchdev/halo5-stats-extension
+  repo_name: halo5-stats-extension
+- org_link: /organisations/aws
+  org_name: Amazon Web Services
+  repo_desc: Greengrass Java SDK
+  repo_link: https://github.com/aws/aws-greengrass-core-sdk-java
+  repo_name: aws-greengrass-core-sdk-java
