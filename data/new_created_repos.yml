@@ -1,52 +1,52 @@
 RECENT_REPOS:
-- org_link: /organisations/spatie
-  org_name: Spatie
-  repo_desc: iA Writer template with our corporate identity. Work in progress!
-  repo_link: https://github.com/spatie/ia-writer-template
-  repo_name: ia-writer-template
-- org_link: /organisations/mozilla
-  org_name: Mozilla
-  repo_desc: NA
-  repo_link: https://github.com/mozilla/geomodel
-  repo_name: geomodel
-- org_link: /organisations/microsoft
-  org_name: Microsoft
-  repo_desc: Builds ripgrep on Azure Pipelines for multiple platforms and makes the
-    binaries available as Github releases
-  repo_link: https://github.com/microsoft/ripgrep-prebuilt
-  repo_name: ripgrep-prebuilt
-- org_link: /organisations/microsoft
-  org_name: Microsoft
-  repo_desc: Default Community Health Files for the Microsoft organization on GitHub
-  repo_link: https://github.com/microsoft/.github
-  repo_name: .github
-- org_link: /organisations/google
-  org_name: Google
-  repo_desc: NA
-  repo_link: https://github.com/google/pyctr
-  repo_name: pyctr
-- org_link: /organisations/google
-  org_name: Google
-  repo_desc: NA
-  repo_link: https://github.com/google/blockly-experimental
-  repo_name: blockly-experimental
-- org_link: /organisations/telerik
-  org_name: Telerik
-  repo_desc: Documentation generator for TypeScript projects.
-  repo_link: https://github.com/telerik/typedoc
-  repo_name: typedoc
-- org_link: /organisations/alibaba
-  org_name: Alibaba
-  repo_desc: ' A Java server-side recording and playback solution based on JVM-Sandbox'
-  repo_link: https://github.com/alibaba/jvm-sandbox-repeater
-  repo_name: jvm-sandbox-repeater
-- org_link: /organisations/razorpay
-  org_name: Razorpay
-  repo_desc: Razorpay Payment Extension for Magento 1.x
-  repo_link: https://github.com/razorpay/razorpay-magento-v1
-  repo_name: razorpay-magento-v1
+- org_link: /organisations/leggedrobotics
+  org_name: ETH Zurich Legged Robotics
+  repo_desc: scene-oriented, flexible 3D engine written in C++ - Ogre1 upstream, Ogre2
+    mirror
+  repo_link: https://github.com/leggedrobotics/ogre
+  repo_name: ogre
+- org_link: /organisations/bytedance
+  org_name: Bytedance Inc.
+  repo_desc: TensorFlow Estimator
+  repo_link: https://github.com/bytedance/estimator
+  repo_name: estimator
+- org_link: /organisations/shopify
+  org_name: Shopify
+  repo_desc: A Typechecker for Ruby
+  repo_link: https://github.com/Shopify/sorbet
+  repo_name: sorbet
 - org_link: /organisations/microsoft
   org_name: Microsoft
   repo_desc: An easy to use wrapper around the Azure DevOps REST API
   repo_link: https://github.com/microsoft/simple_ado
   repo_name: simple_ado
+- org_link: /organisations/razorpay
+  org_name: Razorpay
+  repo_desc: Razorpay Payment Extension for Magento 1.x
+  repo_link: https://github.com/razorpay/razorpay-magento-v1
+  repo_name: razorpay-magento-v1
+- org_link: /organisations/alibaba
+  org_name: Alibaba
+  repo_desc: ' A Java server-side recording and playback solution based on JVM-Sandbox'
+  repo_link: https://github.com/alibaba/jvm-sandbox-repeater
+  repo_name: jvm-sandbox-repeater
+- org_link: /organisations/telerik
+  org_name: Telerik
+  repo_desc: Documentation generator for TypeScript projects.
+  repo_link: https://github.com/telerik/typedoc
+  repo_name: typedoc
+- org_link: /organisations/google
+  org_name: Google
+  repo_desc: NA
+  repo_link: https://github.com/google/blockly-experimental
+  repo_name: blockly-experimental
+- org_link: /organisations/google
+  org_name: Google
+  repo_desc: NA
+  repo_link: https://github.com/google/pyctr
+  repo_name: pyctr
+- org_link: /organisations/microsoft
+  org_name: Microsoft
+  repo_desc: Default Community Health Files for the Microsoft organization on GitHub
+  repo_link: https://github.com/microsoft/.github
+  repo_name: .github
