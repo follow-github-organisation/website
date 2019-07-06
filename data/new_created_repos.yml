@@ -1,52 +1,51 @@
 RECENT_REPOS:
-- org_link: /organisations/leggedrobotics
-  org_name: ETH Zurich Legged Robotics
-  repo_desc: scene-oriented, flexible 3D engine written in C++ - Ogre1 upstream, Ogre2
-    mirror
-  repo_link: https://github.com/leggedrobotics/ogre
-  repo_name: ogre
-- org_link: /organisations/bytedance
-  org_name: Bytedance Inc.
-  repo_desc: TensorFlow Estimator
-  repo_link: https://github.com/bytedance/estimator
-  repo_name: estimator
-- org_link: /organisations/shopify
-  org_name: Shopify
-  repo_desc: A Typechecker for Ruby
-  repo_link: https://github.com/Shopify/sorbet
-  repo_name: sorbet
-- org_link: /organisations/microsoft
-  org_name: Microsoft
-  repo_desc: An easy to use wrapper around the Azure DevOps REST API
-  repo_link: https://github.com/microsoft/simple_ado
-  repo_name: simple_ado
-- org_link: /organisations/razorpay
-  org_name: Razorpay
-  repo_desc: Razorpay Payment Extension for Magento 1.x
-  repo_link: https://github.com/razorpay/razorpay-magento-v1
-  repo_name: razorpay-magento-v1
-- org_link: /organisations/alibaba
-  org_name: Alibaba
-  repo_desc: ' A Java server-side recording and playback solution based on JVM-Sandbox'
-  repo_link: https://github.com/alibaba/jvm-sandbox-repeater
-  repo_name: jvm-sandbox-repeater
-- org_link: /organisations/telerik
-  org_name: Telerik
-  repo_desc: Documentation generator for TypeScript projects.
-  repo_link: https://github.com/telerik/typedoc
-  repo_name: typedoc
-- org_link: /organisations/google
-  org_name: Google
+- org_link: /organisations/exercism
+  org_name: exercism
   repo_desc: NA
-  repo_link: https://github.com/google/blockly-experimental
-  repo_name: blockly-experimental
-- org_link: /organisations/google
-  org_name: Google
+  repo_link: https://github.com/exercism/csharp-tests-generator
+  repo_name: csharp-tests-generator
+- org_link: /organisations/exercism
+  org_name: exercism
   repo_desc: NA
-  repo_link: https://github.com/google/pyctr
-  repo_name: pyctr
+  repo_link: https://github.com/exercism/fsharp-tests-generator
+  repo_name: fsharp-tests-generator
+- org_link: /organisations/exercism
+  org_name: exercism
+  repo_desc: NA
+  repo_link: https://github.com/exercism/erlang-tests-generator
+  repo_name: erlang-tests-generator
+- org_link: /organisations/azure
+  org_name: Microsoft Azure
+  repo_desc: Event Hubs extension for Azure Functions
+  repo_link: https://github.com/Azure/azure-functions-eventhubs-extenstion
+  repo_name: azure-functions-eventhubs-extenstion
+- org_link: /organisations/azure
+  org_name: Microsoft Azure
+  repo_desc: RabbitMQ extension for Azure Functions
+  repo_link: https://github.com/Azure/azure-functions-rabbitmq-extension
+  repo_name: azure-functions-rabbitmq-extension
+- org_link: /organisations/azure
+  org_name: Microsoft Azure
+  repo_desc: Microsoft Azure SDK for native libraries
+  repo_link: https://github.com/Azure/azure-sdk-for-native
+  repo_name: azure-sdk-for-native
+- org_link: /organisations/microsoftdocs
+  org_name: Microsoft Docs
+  repo_desc: NA
+  repo_link: https://github.com/MicrosoftDocs/learn-certs-loc-test.de-de
+  repo_name: learn-certs-loc-test.de-de
+- org_link: /organisations/microsoftdocs
+  org_name: Microsoft Docs
+  repo_desc: NA
+  repo_link: https://github.com/MicrosoftDocs/learn-certs-loc-test.cs-cz
+  repo_name: learn-certs-loc-test.cs-cz
 - org_link: /organisations/microsoft
   org_name: Microsoft
   repo_desc: Default Community Health Files for the Microsoft organization on GitHub
   repo_link: https://github.com/microsoft/.github
   repo_name: .github
+- org_link: /organisations/google
+  org_name: Google
+  repo_desc: NA
+  repo_link: https://github.com/google/pyctr
+  repo_name: pyctr
